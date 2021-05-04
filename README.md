@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
-2. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+1. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+2. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
 3. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-4. 🎉 Merged PR [#16](https://github.com/DieracDelta/flake_generator/pull/16) in [DieracDelta/flake_generator](https://github.com/DieracDelta/flake_generator)
-5. 🗣 Commented on [#7](https://github.com/alilleybrinker/langs-in-rust/issues/7) in [alilleybrinker/langs-in-rust](https://github.com/alilleybrinker/langs-in-rust)
+4. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+5. 🎉 Merged PR [#16](https://github.com/DieracDelta/flake_generator/pull/16) in [DieracDelta/flake_generator](https://github.com/DieracDelta/flake_generator)
 <!--END_SECTION:activity-->

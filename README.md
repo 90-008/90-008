@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-2. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
+1. 🗣 Commented on [#3](https://github.com/yusdacra/nix-cargo-integration/issues/3) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#4](https://github.com/yusdacra/nix-cargo-integration/issues/4) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 3. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-4. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-5. 🎉 Merged PR [#16](https://github.com/DieracDelta/flake_generator/pull/16) in [DieracDelta/flake_generator](https://github.com/DieracDelta/flake_generator)
+4. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
+5. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
 <!--END_SECTION:activity-->

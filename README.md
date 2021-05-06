@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3](https://github.com/yusdacra/nix-cargo-integration/issues/3) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#4](https://github.com/yusdacra/nix-cargo-integration/issues/4) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
-4. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
-5. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+1. 💪 Opened PR [#121863](https://github.com/NixOS/nixpkgs/pull/121863) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#3](https://github.com/yusdacra/nix-cargo-integration/issues/3) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🗣 Commented on [#4](https://github.com/yusdacra/nix-cargo-integration/issues/4) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#140](https://github.com/Songtronix/Airshipper/issues/140) in [Songtronix/Airshipper](https://github.com/Songtronix/Airshipper)
+5. 💪 Opened PR [#1](https://github.com/rpgwaiter/basedcast/pull/1) in [rpgwaiter/basedcast](https://github.com/rpgwaiter/basedcast)
 <!--END_SECTION:activity-->

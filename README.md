@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#14](https://github.com/harmony-development/Crust/pull/14) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-2. 🎉 Merged PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-3. 💪 Opened PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-4. 🗣 Commented on [#123126](https://github.com/NixOS/nixpkgs/issues/123126) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#167](https://github.com/nmattia/naersk/issues/167) in [nmattia/naersk](https://github.com/nmattia/naersk)
+1. 💪 Opened PR [#205](https://github.com/snapview/tungstenite-rs/pull/205) in [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs)
+2. 🎉 Merged PR [#14](https://github.com/harmony-development/Crust/pull/14) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+3. 🎉 Merged PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+4. 💪 Opened PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+5. 🗣 Commented on [#123126](https://github.com/NixOS/nixpkgs/issues/123126) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->

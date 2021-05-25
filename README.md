@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#123126](https://github.com/NixOS/nixpkgs/issues/123126) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗️ Opened issue [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 💪 Opened PR [#205](https://github.com/snapview/tungstenite-rs/pull/205) in [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs)
+1. 🗣 Commented on [#205](https://github.com/snapview/tungstenite-rs/issues/205) in [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs)
+2. 🗣 Commented on [#123126](https://github.com/NixOS/nixpkgs/issues/123126) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. ❗️ Opened issue [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 4. 🎉 Merged PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
 5. 💪 Opened PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
 <!--END_SECTION:activity-->

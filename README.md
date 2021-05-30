@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#90](https://github.com/sdroege/async-tungstenite/issues/90) in [sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
-2. 🗣 Commented on [#738](https://github.com/hecrj/iced/issues/738) in [hecrj/iced](https://github.com/hecrj/iced)
-3. 🗣 Commented on [#205](https://github.com/snapview/tungstenite-rs/issues/205) in [snapview/tungstenite-rs](https://github.com/snapview/tungstenite-rs)
-4. 🗣 Commented on [#123126](https://github.com/NixOS/nixpkgs/issues/123126) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❗️ Closed issue [#10](https://github.com/harmony-development/Crust/issues/10) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+2. ❗️ Closed issue [#12](https://github.com/harmony-development/Crust/issues/12) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+3. 🗣 Commented on [#90](https://github.com/sdroege/async-tungstenite/issues/90) in [sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
+4. 🗣 Commented on [#738](https://github.com/hecrj/iced/issues/738) in [hecrj/iced](https://github.com/hecrj/iced)
 5. 💪 Opened PR [#15](https://github.com/harmony-development/Crust/pull/15) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
 <!--END_SECTION:activity-->

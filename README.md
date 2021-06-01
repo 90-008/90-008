@@ -1,6 +1,6 @@
 ### Hello, I'm yusdacra
 
-I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/info/about).
+I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 
 Contacts:
 - Matrix: [@yusdacra:tchncs.de](https://matrix.to/#/@yusdacra:tchncs.de)

@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#607](https://github.com/hecrj/iced/issues/607) in [hecrj/iced](https://github.com/hecrj/iced)
-2. 🗣 Commented on [#867](https://github.com/hecrj/iced/issues/867) in [hecrj/iced](https://github.com/hecrj/iced)
-3. 🗣 Commented on [#6](https://github.com/yusdacra/nix-cargo-integration/issues/6) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. ❗️ Closed issue [#6](https://github.com/yusdacra/nix-cargo-integration/issues/6) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 💪 Opened PR [#91](https://github.com/sdroege/async-tungstenite/pull/91) in [sdroege/async-tungstenite](https://github.com/sdroege/async-tungstenite)
+1. 🗣 Commented on [#906](https://github.com/hecrj/iced/issues/906) in [hecrj/iced](https://github.com/hecrj/iced)
+2. 🗣 Commented on [#607](https://github.com/hecrj/iced/issues/607) in [hecrj/iced](https://github.com/hecrj/iced)
+3. 🗣 Commented on [#867](https://github.com/hecrj/iced/issues/867) in [hecrj/iced](https://github.com/hecrj/iced)
+4. 🗣 Commented on [#6](https://github.com/yusdacra/nix-cargo-integration/issues/6) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗️ Closed issue [#6](https://github.com/yusdacra/nix-cargo-integration/issues/6) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

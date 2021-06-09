@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 🗣 Commented on [#906](https://github.com/hecrj/iced/issues/906) in [hecrj/iced](https://github.com/hecrj/iced)
+1. ❌ Reopened PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. ❌ Closed PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
 4. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. 💪 Opened PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->

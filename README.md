@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Reopened PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. ❌ Closed PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 💪 Opened PR [#6](https://github.com/orottier/webpage-rs/pull/6) in [orottier/webpage-rs](https://github.com/orottier/webpage-rs)
+2. ❌ Reopened PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. ❌ Closed PR [#180](https://github.com/helix-editor/helix/pull/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
 4. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
 5. 🗣 Commented on [#180](https://github.com/helix-editor/helix/issues/180) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->

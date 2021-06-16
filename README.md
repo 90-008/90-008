@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#2](https://github.com/yusdacra/linemd/issues/2) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
-2. 💪 Opened PR [#916](https://github.com/hecrj/iced/pull/916) in [hecrj/iced](https://github.com/hecrj/iced)
-3. 💪 Opened PR [#915](https://github.com/hecrj/iced/pull/915) in [hecrj/iced](https://github.com/hecrj/iced)
-4. 💪 Opened PR [#914](https://github.com/hecrj/iced/pull/914) in [hecrj/iced](https://github.com/hecrj/iced)
-5. 🗣 Commented on [#910](https://github.com/hecrj/iced/issues/910) in [hecrj/iced](https://github.com/hecrj/iced)
+1. 🎉 Merged PR [#9](https://github.com/yusdacra/nix-cargo-integration/pull/9) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#9](https://github.com/yusdacra/nix-cargo-integration/issues/9) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. ❗️ Opened issue [#2](https://github.com/yusdacra/linemd/issues/2) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
+4. 💪 Opened PR [#916](https://github.com/hecrj/iced/pull/916) in [hecrj/iced](https://github.com/hecrj/iced)
+5. 💪 Opened PR [#915](https://github.com/hecrj/iced/pull/915) in [hecrj/iced](https://github.com/hecrj/iced)
 <!--END_SECTION:activity-->

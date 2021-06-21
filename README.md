@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
+1. ❗️ Opened issue [#339](https://github.com/helix-editor/helix/issues/339) in [helix-editor/helix](https://github.com/helix-editor/helix)
 2. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
-3. 💪 Opened PR [#337](https://github.com/helix-editor/helix/pull/337) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
-5. 🎉 Merged PR [#14](https://github.com/yusdacra/nix-cargo-integration/pull/14) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
+4. 💪 Opened PR [#337](https://github.com/helix-editor/helix/pull/337) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
 <!--END_SECTION:activity-->

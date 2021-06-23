@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/harmony-development/protocol/pull/12) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. ❗️ Opened issue [#339](https://github.com/helix-editor/helix/issues/339) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
-4. 🗣 Commented on [#922](https://github.com/hecrj/iced/issues/922) in [hecrj/iced](https://github.com/hecrj/iced)
-5. 💪 Opened PR [#337](https://github.com/helix-editor/helix/pull/337) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 🗣 Commented on [#18](https://github.com/harmony-development/Crust/issues/18) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+2. 🎉 Merged PR [#16](https://github.com/harmony-development/Crust/pull/16) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+3. 🎉 Merged PR [#17](https://github.com/harmony-development/Crust/pull/17) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+4. 🗣 Commented on [#1](https://github.com/harmony-development/scherzo/issues/1) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 💪 Opened PR [#12](https://github.com/harmony-development/protocol/pull/12) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

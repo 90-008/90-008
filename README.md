@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/yusdacra/linemd/pull/3) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
-2. ❗️ Closed issue [#2](https://github.com/yusdacra/linemd/issues/2) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
-3. 🗣 Commented on [#128458](https://github.com/NixOS/nixpkgs/issues/128458) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#934](https://github.com/hecrj/iced/issues/934) in [hecrj/iced](https://github.com/hecrj/iced)
-5. ❗️ Closed issue [#133](https://github.com/numtide/devshell/issues/133) in [numtide/devshell](https://github.com/numtide/devshell)
+1. 🎉 Merged PR [#4](https://github.com/harmony-development/scherzo/pull/4) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+2. 🎉 Merged PR [#3](https://github.com/harmony-development/scherzo/pull/3) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+3. 🎉 Merged PR [#2](https://github.com/harmony-development/scherzo/pull/2) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+4. 🎉 Merged PR [#3](https://github.com/yusdacra/linemd/pull/3) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
+5. ❗️ Closed issue [#2](https://github.com/yusdacra/linemd/issues/2) in [yusdacra/linemd](https://github.com/yusdacra/linemd)
 <!--END_SECTION:activity-->

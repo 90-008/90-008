@@ -11,9 +11,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/yusdacra/nix-cargo-integration/pull/15) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#15](https://github.com/yusdacra/nix-cargo-integration/issues/15) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🎉 Merged PR [#5](https://github.com/harmony-development/scherzo/pull/5) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 🎉 Merged PR [#25](https://github.com/harmony-development/harmony_rust_sdk/pull/25) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-5. 🎉 Merged PR [#25](https://github.com/harmony-development/Crust/pull/25) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+1. ❗️ Opened issue [#17](https://github.com/yusdacra/nix-cargo-integration/issues/17) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🎉 Merged PR [#15](https://github.com/yusdacra/nix-cargo-integration/pull/15) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🗣 Commented on [#15](https://github.com/yusdacra/nix-cargo-integration/issues/15) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🎉 Merged PR [#5](https://github.com/harmony-development/scherzo/pull/5) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 🎉 Merged PR [#25](https://github.com/harmony-development/harmony_rust_sdk/pull/25) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
 <!--END_SECTION:activity-->

@@ -3,8 +3,7 @@
 I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 
 Contacts:
-- Matrix: [@yusdacra:tchncs.de](https://matrix.to/#/@yusdacra:tchncs.de)
-- Discord: arcadsuy#7447
+- Matrix: [@yusdacra:nixos.dev](https://matrix.to/#/@yusdacra:nixos.dev) or [@yusdacra:tchncs.de](https://matrix.to/#/@yusdacra:tchncs.de)
 - E-mail: y.bera003.06@pm.me
 - LinkedIn: https://www.linkedin.com/in/yusuf-bera-ertan-8468b7192
 

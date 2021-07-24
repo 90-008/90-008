@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/harmony-development/protocol/pull/15) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 💪 Opened PR [#15](https://github.com/harmony-development/protocol/pull/15) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 💪 Opened PR [#496](https://github.com/helix-editor/helix/pull/496) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 💪 Opened PR [#131286](https://github.com/NixOS/nixpkgs/pull/131286) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🎉 Merged PR [#10](https://github.com/harmony-development/scherzo/pull/10) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+1. 🎉 Merged PR [#16](https://github.com/harmony-development/protocol/pull/16) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 💪 Opened PR [#16](https://github.com/harmony-development/protocol/pull/16) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🎉 Merged PR [#15](https://github.com/harmony-development/protocol/pull/15) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+4. 💪 Opened PR [#15](https://github.com/harmony-development/protocol/pull/15) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 💪 Opened PR [#496](https://github.com/helix-editor/helix/pull/496) in [helix-editor/helix](https://github.com/helix-editor/helix)
 <!--END_SECTION:activity-->

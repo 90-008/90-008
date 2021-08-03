@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#31](https://github.com/yusdacra/nix-cargo-integration/pull/31) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. ❗️ Closed issue [#26](https://github.com/yusdacra/nix-cargo-integration/issues/26) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 💪 Opened PR [#31](https://github.com/yusdacra/nix-cargo-integration/pull/31) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🎉 Merged PR [#30](https://github.com/yusdacra/nix-cargo-integration/pull/30) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 💪 Opened PR [#30](https://github.com/yusdacra/nix-cargo-integration/pull/30) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. ❗️ Closed issue [#29](https://github.com/yusdacra/nix-cargo-integration/issues/29) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🎉 Merged PR [#32](https://github.com/yusdacra/nix-cargo-integration/pull/32) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 💪 Opened PR [#32](https://github.com/yusdacra/nix-cargo-integration/pull/32) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🎉 Merged PR [#31](https://github.com/yusdacra/nix-cargo-integration/pull/31) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗️ Closed issue [#26](https://github.com/yusdacra/nix-cargo-integration/issues/26) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

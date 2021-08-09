@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/harmony-development/Crust/issues/44) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-2. ❗️ Closed issue [#36](https://github.com/harmony-development/Crust/issues/36) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-3. ❗️ Closed issue [#6](https://github.com/harmony-development/Crust/issues/6) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-4. ❗️ Closed issue [#42](https://github.com/harmony-development/Crust/issues/42) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-5. 🎉 Merged PR [#43](https://github.com/harmony-development/Crust/pull/43) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+1. 💪 Opened PR [#45](https://github.com/harmony-development/Crust/pull/45) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+2. ❗️ Opened issue [#44](https://github.com/harmony-development/Crust/issues/44) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+3. ❗️ Closed issue [#36](https://github.com/harmony-development/Crust/issues/36) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+4. ❗️ Closed issue [#6](https://github.com/harmony-development/Crust/issues/6) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+5. ❗️ Closed issue [#42](https://github.com/harmony-development/Crust/issues/42) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
 <!--END_SECTION:activity-->

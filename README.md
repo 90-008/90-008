@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#26](https://github.com/oprypin/nightly.link/issues/26) in [oprypin/nightly.link](https://github.com/oprypin/nightly.link)
-2. 💪 Opened PR [#24](https://github.com/harmony-development/protocol/pull/24) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 🎉 Merged PR [#23](https://github.com/harmony-development/protocol/pull/23) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 💪 Opened PR [#23](https://github.com/harmony-development/protocol/pull/23) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 💪 Opened PR [#22](https://github.com/harmony-development/protocol/pull/22) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. ❗️ Closed issue [#9](https://github.com/harmony-development/Crust/issues/9) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+2. ❗️ Closed issue [#39](https://github.com/harmony-development/Crust/issues/39) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+3. 🗣 Commented on [#39](https://github.com/harmony-development/Crust/issues/39) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+4. 🗣 Commented on [#26](https://github.com/oprypin/nightly.link/issues/26) in [oprypin/nightly.link](https://github.com/oprypin/nightly.link)
+5. 💪 Opened PR [#24](https://github.com/harmony-development/protocol/pull/24) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

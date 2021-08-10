@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189](https://github.com/rust-osdev/bootloader/issues/189) in [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader)
-2. 💪 Opened PR [#45](https://github.com/harmony-development/Crust/pull/45) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-3. ❗️ Opened issue [#44](https://github.com/harmony-development/Crust/issues/44) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-4. ❗️ Closed issue [#36](https://github.com/harmony-development/Crust/issues/36) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
-5. ❗️ Closed issue [#6](https://github.com/harmony-development/Crust/issues/6) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+1. 🎉 Merged PR [#46](https://github.com/harmony-development/Crust/pull/46) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+2. 🗣 Commented on [#189](https://github.com/rust-osdev/bootloader/issues/189) in [rust-osdev/bootloader](https://github.com/rust-osdev/bootloader)
+3. 💪 Opened PR [#45](https://github.com/harmony-development/Crust/pull/45) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+4. ❗️ Opened issue [#44](https://github.com/harmony-development/Crust/issues/44) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+5. ❗️ Closed issue [#36](https://github.com/harmony-development/Crust/issues/36) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
 <!--END_SECTION:activity-->

@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#918](https://github.com/hecrj/iced/issues/918) in [hecrj/iced](https://github.com/hecrj/iced)
-2. 💪 Opened PR [#133799](https://github.com/NixOS/nixpkgs/pull/133799) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🎉 Merged PR [#25](https://github.com/harmony-development/protocol/pull/25) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 💪 Opened PR [#25](https://github.com/harmony-development/protocol/pull/25) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. ❗️ Closed issue [#8](https://github.com/harmony-development/Crust/issues/8) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+1. 💪 Opened PR [#35](https://github.com/yusdacra/nix-cargo-integration/pull/35) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#918](https://github.com/hecrj/iced/issues/918) in [hecrj/iced](https://github.com/hecrj/iced)
+3. 💪 Opened PR [#133799](https://github.com/NixOS/nixpkgs/pull/133799) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🎉 Merged PR [#25](https://github.com/harmony-development/protocol/pull/25) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 💪 Opened PR [#25](https://github.com/harmony-development/protocol/pull/25) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

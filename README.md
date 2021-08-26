@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#654](https://github.com/helix-editor/helix/pull/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 💪 Opened PR [#4](https://github.com/jazzfool/iced_video_player/pull/4) in [jazzfool/iced_video_player](https://github.com/jazzfool/iced_video_player)
-3. 💪 Opened PR [#357](https://github.com/divnix/devos/pull/357) in [divnix/devos](https://github.com/divnix/devos)
-4. ❌ Closed PR [#19](https://github.com/divnix/bud/pull/19) in [divnix/bud](https://github.com/divnix/bud)
-5. 💪 Opened PR [#19](https://github.com/divnix/bud/pull/19) in [divnix/bud](https://github.com/divnix/bud)
+1. 🗣 Commented on [#143](https://github.com/hecrj/iced/issues/143) in [hecrj/iced](https://github.com/hecrj/iced)
+2. 💪 Opened PR [#654](https://github.com/helix-editor/helix/pull/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 💪 Opened PR [#4](https://github.com/jazzfool/iced_video_player/pull/4) in [jazzfool/iced_video_player](https://github.com/jazzfool/iced_video_player)
+4. 💪 Opened PR [#357](https://github.com/divnix/devos/pull/357) in [divnix/devos](https://github.com/divnix/devos)
+5. ❌ Closed PR [#19](https://github.com/divnix/bud/pull/19) in [divnix/bud](https://github.com/divnix/bud)
 <!--END_SECTION:activity-->

@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1014](https://github.com/hecrj/iced/issues/1014) in [hecrj/iced](https://github.com/hecrj/iced)
-2. 🗣 Commented on [#863](https://github.com/seanmonstar/warp/issues/863) in [seanmonstar/warp](https://github.com/seanmonstar/warp)
-3. 🗣 Commented on [#654](https://github.com/helix-editor/helix/issues/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#143](https://github.com/hecrj/iced/issues/143) in [hecrj/iced](https://github.com/hecrj/iced)
-5. 💪 Opened PR [#654](https://github.com/helix-editor/helix/pull/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 🗣 Commented on [#1015](https://github.com/hecrj/iced/issues/1015) in [hecrj/iced](https://github.com/hecrj/iced)
+2. 🗣 Commented on [#1014](https://github.com/hecrj/iced/issues/1014) in [hecrj/iced](https://github.com/hecrj/iced)
+3. 🗣 Commented on [#863](https://github.com/seanmonstar/warp/issues/863) in [seanmonstar/warp](https://github.com/seanmonstar/warp)
+4. 🗣 Commented on [#654](https://github.com/helix-editor/helix/issues/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 🗣 Commented on [#143](https://github.com/hecrj/iced/issues/143) in [hecrj/iced](https://github.com/hecrj/iced)
 <!--END_SECTION:activity-->

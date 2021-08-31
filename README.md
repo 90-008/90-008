@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1015](https://github.com/hecrj/iced/issues/1015) in [hecrj/iced](https://github.com/hecrj/iced)
-2. 🗣 Commented on [#1014](https://github.com/hecrj/iced/issues/1014) in [hecrj/iced](https://github.com/hecrj/iced)
-3. 🗣 Commented on [#863](https://github.com/seanmonstar/warp/issues/863) in [seanmonstar/warp](https://github.com/seanmonstar/warp)
-4. 🗣 Commented on [#654](https://github.com/helix-editor/helix/issues/654) in [helix-editor/helix](https://github.com/helix-editor/helix)
-5. 🗣 Commented on [#143](https://github.com/hecrj/iced/issues/143) in [hecrj/iced](https://github.com/hecrj/iced)
+1. 🎉 Merged PR [#35](https://github.com/harmony-development/protocol/pull/35) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 🎉 Merged PR [#36](https://github.com/harmony-development/protocol/pull/36) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🗣 Commented on [#1015](https://github.com/hecrj/iced/issues/1015) in [hecrj/iced](https://github.com/hecrj/iced)
+4. 🗣 Commented on [#1014](https://github.com/hecrj/iced/issues/1014) in [hecrj/iced](https://github.com/hecrj/iced)
+5. 🗣 Commented on [#863](https://github.com/seanmonstar/warp/issues/863) in [seanmonstar/warp](https://github.com/seanmonstar/warp)
 <!--END_SECTION:activity-->

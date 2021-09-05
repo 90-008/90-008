@@ -11,8 +11,8 @@ Contacts:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1024](https://github.com/hecrj/iced/issues/1024) in [hecrj/iced](https://github.com/hecrj/iced)
-2. 💪 Opened PR [#136625](https://github.com/NixOS/nixpkgs/pull/136625) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#1022](https://github.com/hecrj/iced/issues/1022) in [hecrj/iced](https://github.com/hecrj/iced)
+2. 🗣 Commented on [#1024](https://github.com/hecrj/iced/issues/1024) in [hecrj/iced](https://github.com/hecrj/iced)
+3. 💪 Opened PR [#136625](https://github.com/NixOS/nixpkgs/pull/136625) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 4. 🗣 Commented on [#1022](https://github.com/hecrj/iced/issues/1022) in [hecrj/iced](https://github.com/hecrj/iced)
-5. 💪 Opened PR [#39](https://github.com/harmony-development/protocol/pull/39) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🗣 Commented on [#1022](https://github.com/hecrj/iced/issues/1022) in [hecrj/iced](https://github.com/hecrj/iced)
 <!--END_SECTION:activity-->

@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/harmony-development/protocol/pull/42) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
-3. 💪 Opened PR [#42](https://github.com/harmony-development/protocol/pull/42) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 🎉 Merged PR [#41](https://github.com/harmony-development/protocol/pull/41) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 💪 Opened PR [#41](https://github.com/harmony-development/protocol/pull/41) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. ❗️ Opened issue [#93](https://github.com/ajbura/cinny/issues/93) in [ajbura/cinny](https://github.com/ajbura/cinny)
+2. 🎉 Merged PR [#42](https://github.com/harmony-development/protocol/pull/42) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
+4. 💪 Opened PR [#42](https://github.com/harmony-development/protocol/pull/42) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🎉 Merged PR [#41](https://github.com/harmony-development/protocol/pull/41) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

@@ -2,6 +2,8 @@
 
 I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 
+Checkout [Harmony](https://github.com/harmony-development)!
+
 Contacts:
 - Matrix: [@yusdacra:nixos.dev](https://matrix.to/#/@yusdacra:nixos.dev) or [@yusdacra:tchncs.de](https://matrix.to/#/@yusdacra:tchncs.de)
 - E-mail: y.bera003.06@pm.me

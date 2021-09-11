@@ -10,9 +10,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#53](https://github.com/arrterian/nix-env-selector/issues/53) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
-2. 🗣 Commented on [#46](https://github.com/arrterian/nix-env-selector/issues/46) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
-3. 🎉 Merged PR [#32](https://github.com/harmony-development/scherzo/pull/32) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 💪 Opened PR [#90](https://github.com/jaemk/cached/pull/90) in [jaemk/cached](https://github.com/jaemk/cached)
-5. ❌ Closed PR [#45](https://github.com/harmony-development/Crust/pull/45) in [harmony-development/Crust](https://github.com/harmony-development/Crust)
+1. 🗣 Commented on [#135](https://github.com/tokio-rs/console/issues/135) in [tokio-rs/console](https://github.com/tokio-rs/console)
+2. 🗣 Commented on [#53](https://github.com/arrterian/nix-env-selector/issues/53) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
+3. 🗣 Commented on [#46](https://github.com/arrterian/nix-env-selector/issues/46) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
+4. 🎉 Merged PR [#32](https://github.com/harmony-development/scherzo/pull/32) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 💪 Opened PR [#90](https://github.com/jaemk/cached/pull/90) in [jaemk/cached](https://github.com/jaemk/cached)
 <!--END_SECTION:activity-->

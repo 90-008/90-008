@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#210](https://github.com/kolloch/crate2nix/issues/210) in [kolloch/crate2nix](https://github.com/kolloch/crate2nix)
-2. 💪 Opened PR [#359](https://github.com/NixOS/nixos-search/pull/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
-3. 🗣 Commented on [#135](https://github.com/tokio-rs/console/issues/135) in [tokio-rs/console](https://github.com/tokio-rs/console)
-4. 🗣 Commented on [#53](https://github.com/arrterian/nix-env-selector/issues/53) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
-5. 🗣 Commented on [#46](https://github.com/arrterian/nix-env-selector/issues/46) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
+1. 🗣 Commented on [#95226](https://github.com/NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+2. 🗣 Commented on [#210](https://github.com/kolloch/crate2nix/issues/210) in [kolloch/crate2nix](https://github.com/kolloch/crate2nix)
+3. 💪 Opened PR [#359](https://github.com/NixOS/nixos-search/pull/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
+4. 🗣 Commented on [#135](https://github.com/tokio-rs/console/issues/135) in [tokio-rs/console](https://github.com/tokio-rs/console)
+5. 🗣 Commented on [#53](https://github.com/arrterian/nix-env-selector/issues/53) in [arrterian/nix-env-selector](https://github.com/arrterian/nix-env-selector)
 <!--END_SECTION:activity-->

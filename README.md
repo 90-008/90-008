@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#44](https://github.com/harmony-development/protocol/pull/44) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
-3. 🗣 Commented on [#95226](https://github.com/NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#210](https://github.com/kolloch/crate2nix/issues/210) in [kolloch/crate2nix](https://github.com/kolloch/crate2nix)
-5. 💪 Opened PR [#359](https://github.com/NixOS/nixos-search/pull/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
+1. 🗣 Commented on [#143](https://github.com/iced-rs/iced/issues/143) in [iced-rs/iced](https://github.com/iced-rs/iced)
+2. 🎉 Merged PR [#44](https://github.com/harmony-development/protocol/pull/44) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
+4. 🗣 Commented on [#95226](https://github.com/NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#210](https://github.com/kolloch/crate2nix/issues/210) in [kolloch/crate2nix](https://github.com/kolloch/crate2nix)
 <!--END_SECTION:activity-->

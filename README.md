@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
-2. 🗣 Commented on [#762](https://github.com/helix-editor/helix/issues/762) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 🗣 Commented on [#143](https://github.com/iced-rs/iced/issues/143) in [iced-rs/iced](https://github.com/iced-rs/iced)
-4. 🎉 Merged PR [#44](https://github.com/harmony-development/protocol/pull/44) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
+1. 🗣 Commented on [#762](https://github.com/helix-editor/helix/issues/762) in [helix-editor/helix](https://github.com/helix-editor/helix)
+2. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
+3. 🗣 Commented on [#762](https://github.com/helix-editor/helix/issues/762) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 🗣 Commented on [#143](https://github.com/iced-rs/iced/issues/143) in [iced-rs/iced](https://github.com/iced-rs/iced)
+5. 🎉 Merged PR [#44](https://github.com/harmony-development/protocol/pull/44) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

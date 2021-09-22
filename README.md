@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 💪 Opened PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 💪 Opened PR [#46](https://github.com/harmony-development/protocol/pull/46) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
-5. 🗣 Commented on [#762](https://github.com/helix-editor/helix/issues/762) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. 🗣 Commented on [#2468](https://github.com/influxdata/influxdb_iox/issues/2468) in [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox)
+2. 🎉 Merged PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 💪 Opened PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+4. 💪 Opened PR [#46](https://github.com/harmony-development/protocol/pull/46) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🗣 Commented on [#357](https://github.com/divnix/devos/issues/357) in [divnix/devos](https://github.com/divnix/devos)
 <!--END_SECTION:activity-->

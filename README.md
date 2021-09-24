@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#780](https://github.com/helix-editor/helix/issues/780) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 🗣 Commented on [#2468](https://github.com/influxdata/influxdb_iox/issues/2468) in [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox)
-3. 🎉 Merged PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 💪 Opened PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 💪 Opened PR [#46](https://github.com/harmony-development/protocol/pull/46) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. 🗣 Commented on [#1053](https://github.com/iced-rs/iced/issues/1053) in [iced-rs/iced](https://github.com/iced-rs/iced)
+2. 🗣 Commented on [#780](https://github.com/helix-editor/helix/issues/780) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🗣 Commented on [#2468](https://github.com/influxdata/influxdb_iox/issues/2468) in [influxdata/influxdb_iox](https://github.com/influxdata/influxdb_iox)
+4. 🎉 Merged PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 💪 Opened PR [#47](https://github.com/harmony-development/protocol/pull/47) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

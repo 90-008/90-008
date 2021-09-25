@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#359](https://github.com/NixOS/nixos-search/issues/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
+1. 💪 Opened PR [#37](https://github.com/yusdacra/nix-cargo-integration/pull/37) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 2. 🗣 Commented on [#359](https://github.com/NixOS/nixos-search/issues/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
-3. 🗣 Commented on [#355](https://github.com/iced-rs/iced/issues/355) in [iced-rs/iced](https://github.com/iced-rs/iced)
-4. 🗣 Commented on [#1053](https://github.com/iced-rs/iced/issues/1053) in [iced-rs/iced](https://github.com/iced-rs/iced)
-5. 🗣 Commented on [#780](https://github.com/helix-editor/helix/issues/780) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🗣 Commented on [#359](https://github.com/NixOS/nixos-search/issues/359) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
+4. 🗣 Commented on [#355](https://github.com/iced-rs/iced/issues/355) in [iced-rs/iced](https://github.com/iced-rs/iced)
+5. 🗣 Commented on [#1053](https://github.com/iced-rs/iced/issues/1053) in [iced-rs/iced](https://github.com/iced-rs/iced)
 <!--END_SECTION:activity-->

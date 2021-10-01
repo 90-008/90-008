@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🎉 Merged PR [#47](https://github.com/harmony-development/scherzo/pull/47) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-3. 💪 Opened PR [#47](https://github.com/harmony-development/scherzo/pull/47) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 💪 Opened PR [#39](https://github.com/yusdacra/nix-cargo-integration/pull/39) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🎉 Merged PR [#47](https://github.com/harmony-development/scherzo/pull/47) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+4. 💪 Opened PR [#47](https://github.com/harmony-development/scherzo/pull/47) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
 5. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

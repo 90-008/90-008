@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#5](https://github.com/DavHau/dream2nix/issues/5) in [DavHau/dream2nix](https://github.com/DavHau/dream2nix)
-4. 🗣 Commented on [#95226](https://github.com/NixOS/nixpkgs/issues/95226) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🎉 Merged PR [#2](https://github.com/harmony-development/hrpc-rs/pull/2) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+2. 💪 Opened PR [#2](https://github.com/harmony-development/hrpc-rs/pull/2) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+3. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#5](https://github.com/DavHau/dream2nix/issues/5) in [DavHau/dream2nix](https://github.com/DavHau/dream2nix)
 <!--END_SECTION:activity-->

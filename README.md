@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#62](https://github.com/harmony-development/protocol/pull/62) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 🎉 Merged PR [#40](https://github.com/yusdacra/nix-cargo-integration/pull/40) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#40](https://github.com/yusdacra/nix-cargo-integration/issues/40) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🎉 Merged PR [#60](https://github.com/harmony-development/protocol/pull/60) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 🗣 Commented on [#38](https://github.com/yusdacra/nix-cargo-integration/issues/38) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
+2. 💪 Opened PR [#62](https://github.com/harmony-development/protocol/pull/62) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🎉 Merged PR [#40](https://github.com/yusdacra/nix-cargo-integration/pull/40) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#40](https://github.com/yusdacra/nix-cargo-integration/issues/40) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🎉 Merged PR [#60](https://github.com/harmony-development/protocol/pull/60) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

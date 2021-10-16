@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#63](https://github.com/harmony-development/protocol/pull/63) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 💪 Opened PR [#63](https://github.com/harmony-development/protocol/pull/63) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
+1. 💪 Opened PR [#64](https://github.com/harmony-development/protocol/pull/64) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 🎉 Merged PR [#63](https://github.com/harmony-development/protocol/pull/63) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 💪 Opened PR [#63](https://github.com/harmony-development/protocol/pull/63) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 4. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
-5. 💪 Opened PR [#62](https://github.com/harmony-development/protocol/pull/62) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
 <!--END_SECTION:activity-->

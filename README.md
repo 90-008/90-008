@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#42](https://github.com/yusdacra/nix-cargo-integration/pull/42) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 💪 Opened PR [#42](https://github.com/yusdacra/nix-cargo-integration/pull/42) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. ❗️ Opened issue [#9](https://github.com/ibraheemdev/matchit/issues/9) in [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
-4. 🎉 Merged PR [#67](https://github.com/harmony-development/protocol/pull/67) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 🎉 Merged PR [#62](https://github.com/harmony-development/protocol/pull/62) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. 💪 Opened PR [#68](https://github.com/harmony-development/protocol/pull/68) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 🎉 Merged PR [#42](https://github.com/yusdacra/nix-cargo-integration/pull/42) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 💪 Opened PR [#42](https://github.com/yusdacra/nix-cargo-integration/pull/42) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. ❗️ Opened issue [#9](https://github.com/ibraheemdev/matchit/issues/9) in [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
+5. 🎉 Merged PR [#67](https://github.com/harmony-development/protocol/pull/67) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

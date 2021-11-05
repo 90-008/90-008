@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#2](https://github.com/harmony-development/hrpc/pull/2) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-2. 💪 Opened PR [#4](https://github.com/harmony-development/hrpc/pull/4) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-3. ❗️ Opened issue [#104](https://github.com/b4nst/turbogit/issues/104) in [b4nst/turbogit](https://github.com/b4nst/turbogit)
-4. 🗣 Commented on [#9](https://github.com/ibraheemdev/matchit/issues/9) in [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
-5. ❗️ Opened issue [#5](https://github.com/harmony-development/hrpc-rs/issues/5) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+1. 🗣 Commented on [#9](https://github.com/ibraheemdev/matchit/issues/9) in [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
+2. ❌ Closed PR [#2](https://github.com/harmony-development/hrpc/pull/2) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+3. 💪 Opened PR [#4](https://github.com/harmony-development/hrpc/pull/4) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+4. ❗️ Opened issue [#104](https://github.com/b4nst/turbogit/issues/104) in [b4nst/turbogit](https://github.com/b4nst/turbogit)
+5. 🗣 Commented on [#9](https://github.com/ibraheemdev/matchit/issues/9) in [ibraheemdev/matchit](https://github.com/ibraheemdev/matchit)
 <!--END_SECTION:activity-->

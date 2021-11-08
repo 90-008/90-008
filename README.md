@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#6](https://github.com/harmony-development/hrpc/issues/6) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-2. ❗️ Opened issue [#70](https://github.com/harmony-development/protocol/issues/70) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. ❗️ Opened issue [#11](https://github.com/harmony-development/hrpc-rs/issues/11) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. ❗️ Opened issue [#10](https://github.com/harmony-development/hrpc-rs/issues/10) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-5. ❗️ Opened issue [#9](https://github.com/harmony-development/hrpc-rs/issues/9) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+1. ❗️ Opened issue [#73](https://github.com/harmony-development/Loqui/issues/73) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. ❗️ Opened issue [#79](https://github.com/harmony-development/scherzo/issues/79) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+3. ❗️ Opened issue [#78](https://github.com/harmony-development/scherzo/issues/78) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+4. ❗️ Opened issue [#77](https://github.com/harmony-development/scherzo/issues/77) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. ❗️ Opened issue [#6](https://github.com/harmony-development/hrpc/issues/6) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
 <!--END_SECTION:activity-->

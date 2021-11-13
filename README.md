@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#1](https://github.com/Bluskript/trolleyhub/issues/1) in [Bluskript/trolleyhub](https://github.com/Bluskript/trolleyhub)
-2. ❗️ Opened issue [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-3. ❗️ Closed issue [#6](https://github.com/harmony-development/hrpc-rs/issues/6) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. 🗣 Commented on [#198](https://github.com/snapview/tokio-tungstenite/issues/198) in [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
-5. 🎉 Merged PR [#14](https://github.com/harmony-development/hrpc-rs/pull/14) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+1. 💪 Opened PR [#7](https://github.com/harmony-development/hrpc/pull/7) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+2. ❗️ Opened issue [#1](https://github.com/Bluskript/trolleyhub/issues/1) in [Bluskript/trolleyhub](https://github.com/Bluskript/trolleyhub)
+3. ❗️ Opened issue [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+4. ❗️ Closed issue [#6](https://github.com/harmony-development/hrpc-rs/issues/6) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. 🗣 Commented on [#198](https://github.com/snapview/tokio-tungstenite/issues/198) in [snapview/tokio-tungstenite](https://github.com/snapview/tokio-tungstenite)
 <!--END_SECTION:activity-->

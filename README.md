@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#6](https://github.com/harmony-development/hrpc/issues/6) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-2. 🎉 Merged PR [#7](https://github.com/harmony-development/hrpc/pull/7) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-3. ❗️ Opened issue [#17](https://github.com/harmony-development/hrpc-rs/issues/17) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. 💪 Opened PR [#7](https://github.com/harmony-development/hrpc/pull/7) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
-5. ❗️ Opened issue [#1](https://github.com/Bluskript/trolleyhub/issues/1) in [Bluskript/trolleyhub](https://github.com/Bluskript/trolleyhub)
+1. 💪 Opened PR [#8](https://github.com/harmony-development/hrpc/pull/8) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+2. ❗️ Closed issue [#6](https://github.com/harmony-development/hrpc/issues/6) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+3. 🎉 Merged PR [#7](https://github.com/harmony-development/hrpc/pull/7) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
+4. ❗️ Opened issue [#17](https://github.com/harmony-development/hrpc-rs/issues/17) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. 💪 Opened PR [#7](https://github.com/harmony-development/hrpc/pull/7) in [harmony-development/hrpc](https://github.com/harmony-development/hrpc)
 <!--END_SECTION:activity-->

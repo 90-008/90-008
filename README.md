@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#10](https://github.com/harmony-development/hrpc-rs/issues/10) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-2. ❗️ Closed issue [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-3. 🗣 Commented on [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. 💪 Opened PR [#16](https://github.com/hamza1311/reqwasm/pull/16) in [hamza1311/reqwasm](https://github.com/hamza1311/reqwasm)
-5. ❗️ Opened issue [#15](https://github.com/hamza1311/reqwasm/issues/15) in [hamza1311/reqwasm](https://github.com/hamza1311/reqwasm)
+1. ❗️ Opened issue [#19](https://github.com/harmony-development/hrpc-rs/issues/19) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+2. ❗️ Opened issue [#18](https://github.com/harmony-development/hrpc-rs/issues/18) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+3. 🗣 Commented on [#10](https://github.com/harmony-development/hrpc-rs/issues/10) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+4. ❗️ Closed issue [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. 🗣 Commented on [#15](https://github.com/harmony-development/hrpc-rs/issues/15) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
 <!--END_SECTION:activity-->

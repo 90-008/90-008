@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-2. ❗️ Opened issue [#21](https://github.com/harmony-development/hrpc-rs/issues/21) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-3. ❗️ Closed issue [#13](https://github.com/harmony-development/hrpc-rs/issues/13) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. ❗️ Closed issue [#16](https://github.com/harmony-development/hrpc-rs/issues/16) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-5. 🗣 Commented on [#16](https://github.com/harmony-development/hrpc-rs/issues/16) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+1. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. ❗️ Opened issue [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+3. ❗️ Opened issue [#21](https://github.com/harmony-development/hrpc-rs/issues/21) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+4. ❗️ Closed issue [#13](https://github.com/harmony-development/hrpc-rs/issues/13) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. ❗️ Closed issue [#16](https://github.com/harmony-development/hrpc-rs/issues/16) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
 <!--END_SECTION:activity-->

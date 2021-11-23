@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#25](https://github.com/harmony-development/hrpc-rs/issues/25) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-2. ❗️ Closed issue [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-3. 🗣 Commented on [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-4. ❗️ Closed issue [#20](https://github.com/harmony-development/hrpc-rs/issues/20) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-5. 🗣 Commented on [#20](https://github.com/harmony-development/hrpc-rs/issues/20) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+1. ❗️ Opened issue [#79](https://github.com/harmony-development/Loqui/issues/79) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. ❗️ Opened issue [#25](https://github.com/harmony-development/hrpc-rs/issues/25) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+3. ❗️ Closed issue [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+4. 🗣 Commented on [#22](https://github.com/harmony-development/hrpc-rs/issues/22) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. ❗️ Closed issue [#20](https://github.com/harmony-development/hrpc-rs/issues/20) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
 <!--END_SECTION:activity-->

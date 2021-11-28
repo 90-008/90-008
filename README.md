@@ -12,7 +12,7 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 2. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 4. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)

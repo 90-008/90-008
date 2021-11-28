@@ -15,6 +15,6 @@ Contacts:
 1. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 2. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 💪 Opened PR [#59](https://github.com/nix-community/dream2nix/pull/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#60](https://github.com/nix-community/dream2nix/pull/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 🗣 Commented on [#1131](https://github.com/iced-rs/iced/issues/1131) in [iced-rs/iced](https://github.com/iced-rs/iced)
+1. ❌ Closed PR [#15](https://github.com/harmony-development/harmony_rust_sdk/pull/15) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+2. 💪 Opened PR [#60](https://github.com/nix-community/dream2nix/pull/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#1131](https://github.com/iced-rs/iced/issues/1131) in [iced-rs/iced](https://github.com/iced-rs/iced)
-4. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 🗣 Commented on [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#1131](https://github.com/iced-rs/iced/issues/1131) in [iced-rs/iced](https://github.com/iced-rs/iced)
+5. 🗣 Commented on [#59](https://github.com/nix-community/dream2nix/issues/59) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

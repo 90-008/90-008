@@ -13,8 +13,8 @@ Contacts:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 🗣 Commented on [#60](https://github.com/nix-community/dream2nix/issues/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. ❌ Closed PR [#15](https://github.com/harmony-development/harmony_rust_sdk/pull/15) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-4. 💪 Opened PR [#60](https://github.com/nix-community/dream2nix/pull/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 🗣 Commented on [#1131](https://github.com/iced-rs/iced/issues/1131) in [iced-rs/iced](https://github.com/iced-rs/iced)
+2. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 🗣 Commented on [#60](https://github.com/nix-community/dream2nix/issues/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. ❌ Closed PR [#15](https://github.com/harmony-development/harmony_rust_sdk/pull/15) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+5. 💪 Opened PR [#60](https://github.com/nix-community/dream2nix/pull/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

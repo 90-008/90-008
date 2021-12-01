@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#5](https://github.com/nix-community/dream2nix/issues/5) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. ❗️ Opened issue [#100](https://github.com/harmony-development/scherzo/issues/100) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-3. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. ❗️ Opened issue [#26](https://github.com/harmony-development/hrpc-rs/issues/26) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+2. 🗣 Commented on [#5](https://github.com/nix-community/dream2nix/issues/5) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. ❗️ Opened issue [#100](https://github.com/harmony-development/scherzo/issues/100) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
 4. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 🗣 Commented on [#60](https://github.com/nix-community/dream2nix/issues/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

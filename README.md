@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#100](https://github.com/harmony-development/scherzo/issues/100) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-2. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#5](https://github.com/nix-community/dream2nix/issues/5) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. ❗️ Opened issue [#100](https://github.com/harmony-development/scherzo/issues/100) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
 3. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#60](https://github.com/nix-community/dream2nix/issues/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. ❌ Closed PR [#15](https://github.com/harmony-development/harmony_rust_sdk/pull/15) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+4. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#60](https://github.com/nix-community/dream2nix/issues/60) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

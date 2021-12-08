@@ -14,7 +14,7 @@ Contacts:
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#218](https://github.com/rkyv/rkyv/issues/218) in [rkyv/rkyv](https://github.com/rkyv/rkyv)
 2. 🗣 Commented on [#218](https://github.com/rkyv/rkyv/issues/218) in [rkyv/rkyv](https://github.com/rkyv/rkyv)
-3. ❗️ Opened issue [#107](https://github.com/harmony-development/scherzo/issues/107) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 🎉 Merged PR [#103](https://github.com/harmony-development/harmony_rust_sdk/pull/103) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-5. 🎉 Merged PR [#82](https://github.com/harmony-development/Loqui/pull/82) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+3. 🗣 Commented on [#218](https://github.com/rkyv/rkyv/issues/218) in [rkyv/rkyv](https://github.com/rkyv/rkyv)
+4. ❗️ Opened issue [#107](https://github.com/harmony-development/scherzo/issues/107) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 🎉 Merged PR [#103](https://github.com/harmony-development/harmony_rust_sdk/pull/103) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
 <!--END_SECTION:activity-->

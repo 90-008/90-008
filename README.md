@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#110](https://github.com/harmony-development/scherzo/issues/110) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-2. ❗️ Opened issue [#110](https://github.com/harmony-development/scherzo/issues/110) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-3. 🗣 Commented on [#79](https://github.com/harmony-development/scherzo/issues/79) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 🗣 Commented on [#107](https://github.com/harmony-development/scherzo/issues/107) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-5. ❗️ Closed issue [#67](https://github.com/harmony-development/scherzo/issues/67) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+1. ❗️ Opened issue [#74](https://github.com/harmony-development/protocol/issues/74) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 🗣 Commented on [#110](https://github.com/harmony-development/scherzo/issues/110) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+3. ❗️ Opened issue [#110](https://github.com/harmony-development/scherzo/issues/110) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+4. 🗣 Commented on [#79](https://github.com/harmony-development/scherzo/issues/79) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 🗣 Commented on [#107](https://github.com/harmony-development/scherzo/issues/107) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
 <!--END_SECTION:activity-->

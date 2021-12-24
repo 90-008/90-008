@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#991](https://github.com/emilk/egui/issues/991) in [emilk/egui](https://github.com/emilk/egui)
-2. ❗️ Opened issue [#991](https://github.com/emilk/egui/issues/991) in [emilk/egui](https://github.com/emilk/egui)
-3. 💪 Opened PR [#990](https://github.com/emilk/egui/pull/990) in [emilk/egui](https://github.com/emilk/egui)
-4. 🗣 Commented on [#3](https://github.com/Bluskript/trolleyhub/issues/3) in [Bluskript/trolleyhub](https://github.com/Bluskript/trolleyhub)
+1. 🗣 Commented on [#990](https://github.com/emilk/egui/issues/990) in [emilk/egui](https://github.com/emilk/egui)
+2. 🗣 Commented on [#991](https://github.com/emilk/egui/issues/991) in [emilk/egui](https://github.com/emilk/egui)
+3. ❗️ Opened issue [#991](https://github.com/emilk/egui/issues/991) in [emilk/egui](https://github.com/emilk/egui)
+4. 💪 Opened PR [#990](https://github.com/emilk/egui/pull/990) in [emilk/egui](https://github.com/emilk/egui)
 5. 🗣 Commented on [#3](https://github.com/Bluskript/trolleyhub/issues/3) in [Bluskript/trolleyhub](https://github.com/Bluskript/trolleyhub)
 <!--END_SECTION:activity-->

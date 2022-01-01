@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. ❗️ Closed issue [#135](https://github.com/harmony-development/scherzo/issues/135) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. ❗️ Opened issue [#136](https://github.com/harmony-development/scherzo/issues/136) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-5. ❗️ Opened issue [#135](https://github.com/harmony-development/scherzo/issues/135) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+1. ❌ Closed PR [#72](https://github.com/harmony-development/protocol/pull/72) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 🗣 Commented on [#72](https://github.com/harmony-development/protocol/issues/72) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. ❗️ Closed issue [#99](https://github.com/harmony-development/scherzo/issues/99) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+4. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

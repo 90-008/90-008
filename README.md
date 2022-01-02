@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#100](https://github.com/harmony-development/scherzo/issues/100) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-2. ❗️ Closed issue [#137](https://github.com/harmony-development/scherzo/issues/137) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-3. ❗️ Closed issue [#136](https://github.com/harmony-development/scherzo/issues/136) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. ❗️ Opened issue [#138](https://github.com/harmony-development/scherzo/issues/138) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-5. ❌ Closed PR [#72](https://github.com/harmony-development/protocol/pull/72) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. ❌ Closed PR [#91](https://github.com/harmony-development/Loqui/pull/91) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. ❌ Closed PR [#90](https://github.com/harmony-development/Loqui/pull/90) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+3. ❌ Closed PR [#87](https://github.com/harmony-development/Loqui/pull/87) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+4. ❌ Closed PR [#85](https://github.com/harmony-development/Loqui/pull/85) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+5. 🎉 Merged PR [#88](https://github.com/harmony-development/Loqui/pull/88) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
 <!--END_SECTION:activity-->

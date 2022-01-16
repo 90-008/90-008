@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#44](https://github.com/emilk/eframe_template/issues/44) in [emilk/eframe_template](https://github.com/emilk/eframe_template)
-2. ❗️ Opened issue [#1121](https://github.com/emilk/egui/issues/1121) in [emilk/egui](https://github.com/emilk/egui)
-3. 🗣 Commented on [#53](https://github.com/yusdacra/nix-cargo-integration/issues/53) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. ❗️ Opened issue [#1116](https://github.com/emilk/egui/issues/1116) in [emilk/egui](https://github.com/emilk/egui)
-5. 🗣 Commented on [#285](https://github.com/thedodd/trunk/issues/285) in [thedodd/trunk](https://github.com/thedodd/trunk)
+1. 🗣 Commented on [#49](https://github.com/yusdacra/nix-cargo-integration/issues/49) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#54](https://github.com/yusdacra/nix-cargo-integration/pull/54) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. ❗️ Closed issue [#44](https://github.com/yusdacra/nix-cargo-integration/issues/44) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#44](https://github.com/yusdacra/nix-cargo-integration/issues/44) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗️ Opened issue [#44](https://github.com/emilk/eframe_template/issues/44) in [emilk/eframe_template](https://github.com/emilk/eframe_template)
 <!--END_SECTION:activity-->

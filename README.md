@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#55](https://github.com/yusdacra/nix-cargo-integration/issues/55) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🎉 Merged PR [#54](https://github.com/yusdacra/nix-cargo-integration/pull/54) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🎉 Merged PR [#103](https://github.com/harmony-development/Loqui/pull/103) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-4. 🎉 Merged PR [#104](https://github.com/harmony-development/Loqui/pull/104) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-5. 🗣 Commented on [#1098](https://github.com/emilk/egui/issues/1098) in [emilk/egui](https://github.com/emilk/egui)
+1. 🗣 Commented on [#157](https://github.com/harmony-development/scherzo/issues/157) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+2. ❗️ Opened issue [#55](https://github.com/yusdacra/nix-cargo-integration/issues/55) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🎉 Merged PR [#54](https://github.com/yusdacra/nix-cargo-integration/pull/54) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🎉 Merged PR [#103](https://github.com/harmony-development/Loqui/pull/103) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+5. 🎉 Merged PR [#104](https://github.com/harmony-development/Loqui/pull/104) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
 <!--END_SECTION:activity-->

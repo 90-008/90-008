@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#157](https://github.com/harmony-development/scherzo/issues/157) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-2. 🗣 Commented on [#157](https://github.com/harmony-development/scherzo/issues/157) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-3. ❗️ Opened issue [#55](https://github.com/yusdacra/nix-cargo-integration/issues/55) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🎉 Merged PR [#54](https://github.com/yusdacra/nix-cargo-integration/pull/54) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🎉 Merged PR [#103](https://github.com/harmony-development/Loqui/pull/103) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+1. 🎉 Merged PR [#106](https://github.com/harmony-development/Loqui/pull/106) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. 🎉 Merged PR [#107](https://github.com/harmony-development/Loqui/pull/107) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+3. 🎉 Merged PR [#108](https://github.com/harmony-development/Loqui/pull/108) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+4. 🎉 Merged PR [#109](https://github.com/harmony-development/Loqui/pull/109) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+5. 🎉 Merged PR [#110](https://github.com/harmony-development/Loqui/pull/110) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
 <!--END_SECTION:activity-->

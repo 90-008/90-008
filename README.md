@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#125](https://github.com/harmony-development/Loqui/issues/125) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-2. ❗️ Opened issue [#121](https://github.com/harmony-development/Loqui/issues/121) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-3. ❗️ Opened issue [#120](https://github.com/harmony-development/Loqui/issues/120) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-4. ❗️ Opened issue [#119](https://github.com/harmony-development/Loqui/issues/119) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
-5. ❗️ Opened issue [#118](https://github.com/harmony-development/Loqui/issues/118) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+1. 🗣 Commented on [#119](https://github.com/harmony-development/Loqui/issues/119) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. ❗️ Opened issue [#125](https://github.com/harmony-development/Loqui/issues/125) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+3. ❗️ Opened issue [#121](https://github.com/harmony-development/Loqui/issues/121) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+4. ❗️ Opened issue [#120](https://github.com/harmony-development/Loqui/issues/120) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+5. ❗️ Opened issue [#119](https://github.com/harmony-development/Loqui/issues/119) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
 <!--END_SECTION:activity-->

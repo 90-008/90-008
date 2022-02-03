@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
+1. 💪 Opened PR [#90](https://github.com/harmony-development/protocol/pull/90) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 2. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
-3. ❗️ Opened issue [#167](https://github.com/harmony-development/scherzo/issues/167) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-4. 🎉 Merged PR [#166](https://github.com/harmony-development/scherzo/pull/166) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
-5. ❗️ Opened issue [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
+3. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
+4. ❗️ Opened issue [#167](https://github.com/harmony-development/scherzo/issues/167) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+5. 🎉 Merged PR [#166](https://github.com/harmony-development/scherzo/pull/166) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
 <!--END_SECTION:activity-->

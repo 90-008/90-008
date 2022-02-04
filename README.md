@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#56](https://github.com/yusdacra/nix-cargo-integration/pull/56) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. ❗️ Closed issue [#33](https://github.com/yusdacra/nix-cargo-integration/issues/33) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#33](https://github.com/yusdacra/nix-cargo-integration/issues/33) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. ❗️ Opened issue [#91](https://github.com/harmony-development/protocol/issues/91) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 💪 Opened PR [#90](https://github.com/harmony-development/protocol/pull/90) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. ❗️ Opened issue [#134](https://github.com/harmony-development/harmony_rust_sdk/issues/134) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+2. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
+3. 💪 Opened PR [#56](https://github.com/yusdacra/nix-cargo-integration/pull/56) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. ❗️ Closed issue [#33](https://github.com/yusdacra/nix-cargo-integration/issues/33) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#33](https://github.com/yusdacra/nix-cargo-integration/issues/33) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

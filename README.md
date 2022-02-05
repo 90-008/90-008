@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-2. 🗣 Commented on [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-3. ❗️ Opened issue [#134](https://github.com/harmony-development/harmony_rust_sdk/issues/134) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-4. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
-5. 💪 Opened PR [#56](https://github.com/yusdacra/nix-cargo-integration/pull/56) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🗣 Commented on [#1152](https://github.com/emilk/egui/issues/1152) in [emilk/egui](https://github.com/emilk/egui)
+2. ❗️ Closed issue [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+3. 🗣 Commented on [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+4. ❗️ Opened issue [#134](https://github.com/harmony-development/harmony_rust_sdk/issues/134) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+5. 🗣 Commented on [#1167](https://github.com/emilk/egui/issues/1167) in [emilk/egui](https://github.com/emilk/egui)
 <!--END_SECTION:activity-->

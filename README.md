@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#68](https://github.com/harmony-development/protocol/pull/68) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 🗣 Commented on [#68](https://github.com/harmony-development/protocol/issues/68) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 🗣 Commented on [#1152](https://github.com/emilk/egui/issues/1152) in [emilk/egui](https://github.com/emilk/egui)
-4. ❗️ Closed issue [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
-5. 🗣 Commented on [#20](https://github.com/harmony-development/harmony_rust_sdk/issues/20) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+1. ❗️ Opened issue [#93](https://github.com/harmony-development/protocol/issues/93) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. ❗️ Opened issue [#92](https://github.com/harmony-development/protocol/issues/92) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. ❌ Closed PR [#68](https://github.com/harmony-development/protocol/pull/68) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+4. 🗣 Commented on [#68](https://github.com/harmony-development/protocol/issues/68) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🗣 Commented on [#1152](https://github.com/emilk/egui/issues/1152) in [emilk/egui](https://github.com/emilk/egui)
 <!--END_SECTION:activity-->

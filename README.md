@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#28](https://github.com/harmony-development/hrpc-rs/issues/28) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-2. 🗣 Commented on [#28](https://github.com/harmony-development/hrpc-rs/issues/28) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
-3. 🎉 Merged PR [#57](https://github.com/yusdacra/nix-cargo-integration/pull/57) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🗣 Commented on [#81](https://github.com/nix-community/dream2nix/issues/81) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 💪 Opened PR [#82](https://github.com/nix-community/dream2nix/pull/82) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. ❗️ Opened issue [#29](https://github.com/harmony-development/hrpc-rs/issues/29) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+2. ❗️ Closed issue [#24](https://github.com/harmony-development/hrpc-rs/issues/24) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+3. ❗️ Closed issue [#27](https://github.com/harmony-development/hrpc-rs/issues/27) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+4. 🗣 Commented on [#27](https://github.com/harmony-development/hrpc-rs/issues/27) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
+5. ❗️ Closed issue [#28](https://github.com/harmony-development/hrpc-rs/issues/28) in [harmony-development/hrpc-rs](https://github.com/harmony-development/hrpc-rs)
 <!--END_SECTION:activity-->

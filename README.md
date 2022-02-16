@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🗣 Commented on [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 3. 🗣 Commented on [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 4. 🗣 Commented on [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#10](https://github.com/ipetkov/crane/issues/10) in [ipetkov/crane](https://github.com/ipetkov/crane)
+5. 🗣 Commented on [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#91](https://github.com/nix-community/dream2nix/issues/91) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 🗣 Commented on [#91](https://github.com/nix-community/dream2nix/issues/91) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#91](https://github.com/nix-community/dream2nix/issues/91) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#56](https://github.com/yusdacra/nix-cargo-integration/issues/56) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#91](https://github.com/nix-community/dream2nix/issues/91) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🎉 Merged PR [#151](https://github.com/harmony-development/Loqui/pull/151) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. 🎉 Merged PR [#142](https://github.com/harmony-development/harmony_rust_sdk/pull/142) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+3. 🎉 Merged PR [#140](https://github.com/harmony-development/harmony_rust_sdk/pull/140) in [harmony-development/harmony_rust_sdk](https://github.com/harmony-development/harmony_rust_sdk)
+4. 🎉 Merged PR [#16](https://github.com/harmony-development/loqui-iced/pull/16) in [harmony-development/loqui-iced](https://github.com/harmony-development/loqui-iced)
+5. 🎉 Merged PR [#150](https://github.com/harmony-development/Loqui/pull/150) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
 <!--END_SECTION:activity-->

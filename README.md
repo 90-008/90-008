@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1758](https://github.com/helix-editor/helix/issues/1758) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 💪 Opened PR [#63](https://github.com/yusdacra/nix-cargo-integration/pull/63) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#1758](https://github.com/helix-editor/helix/issues/1758) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 🗣 Commented on [#52](https://github.com/yusdacra/nix-cargo-integration/issues/52) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. ❗️ Opened issue [#98](https://github.com/nix-community/dream2nix/issues/98) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🎉 Merged PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🎉 Merged PR [#63](https://github.com/yusdacra/nix-cargo-integration/pull/63) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#1758](https://github.com/helix-editor/helix/issues/1758) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 💪 Opened PR [#63](https://github.com/yusdacra/nix-cargo-integration/pull/63) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

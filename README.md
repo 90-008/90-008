@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
-2. 🗣 Commented on [#249](https://github.com/kamadorueda/alejandra/issues/249) in [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)
-3. 🎉 Merged PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 💪 Opened PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🎉 Merged PR [#63](https://github.com/yusdacra/nix-cargo-integration/pull/63) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
+3. 🗣 Commented on [#249](https://github.com/kamadorueda/alejandra/issues/249) in [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)
+4. 🎉 Merged PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 💪 Opened PR [#64](https://github.com/yusdacra/nix-cargo-integration/pull/64) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

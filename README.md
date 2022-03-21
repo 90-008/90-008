@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#164688](https://github.com/NixOS/nixpkgs/issues/164688) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. ❗️ Opened issue [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#21](https://github.com/yusdacra/rust-nix-templater/issues/21) in [yusdacra/rust-nix-templater](https://github.com/yusdacra/rust-nix-templater)
-5. 🗣 Commented on [#249](https://github.com/kamadorueda/alejandra/issues/249) in [kamadorueda/alejandra](https://github.com/kamadorueda/alejandra)
+1. 💪 Opened PR [#154](https://github.com/harmony-development/Loqui/pull/154) in [harmony-development/Loqui](https://github.com/harmony-development/Loqui)
+2. 💪 Opened PR [#189](https://github.com/harmony-development/scherzo/pull/189) in [harmony-development/scherzo](https://github.com/harmony-development/scherzo)
+3. 🗣 Commented on [#164688](https://github.com/NixOS/nixpkgs/issues/164688) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. ❗️ Opened issue [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#16](https://github.com/nix-community/dream2nix/issues/16) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

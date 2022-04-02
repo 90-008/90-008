@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#95](https://github.com/harmony-development/protocol/pull/95) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-2. 🗣 Commented on [#95](https://github.com/harmony-development/protocol/issues/95) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-3. 🎉 Merged PR [#88](https://github.com/harmony-development/protocol/pull/88) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-4. 🎉 Merged PR [#98](https://github.com/harmony-development/protocol/pull/98) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 🎉 Merged PR [#97](https://github.com/harmony-development/protocol/pull/97) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. 🎉 Merged PR [#101](https://github.com/harmony-development/protocol/pull/101) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+2. 💪 Opened PR [#101](https://github.com/harmony-development/protocol/pull/101) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+3. 🎉 Merged PR [#100](https://github.com/harmony-development/protocol/pull/100) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+4. 💪 Opened PR [#100](https://github.com/harmony-development/protocol/pull/100) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+5. 🎉 Merged PR [#99](https://github.com/harmony-development/protocol/pull/99) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
 <!--END_SECTION:activity-->

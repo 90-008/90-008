@@ -12,9 +12,9 @@ Contacts:
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#167160](https://github.com/NixOS/nixpkgs/issues/167160) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🎉 Merged PR [#101](https://github.com/harmony-development/protocol/pull/101) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
-5. 💪 Opened PR [#101](https://github.com/harmony-development/protocol/pull/101) in [harmony-development/protocol](https://github.com/harmony-development/protocol)
+1. 🗣 Commented on [#65](https://github.com/yusdacra/nix-cargo-integration/issues/65) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#70](https://github.com/yusdacra/nix-cargo-integration/pull/70) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. ❗️ Closed issue [#66](https://github.com/yusdacra/nix-cargo-integration/issues/66) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#66](https://github.com/yusdacra/nix-cargo-integration/issues/66) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

@@ -15,6 +15,6 @@ Contacts:
 1. 🗣 Commented on [#114](https://github.com/nix-community/dream2nix/issues/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 2. 🗣 Commented on [#114](https://github.com/nix-community/dream2nix/issues/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#114](https://github.com/nix-community/dream2nix/issues/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 💪 Opened PR [#114](https://github.com/nix-community/dream2nix/pull/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. ❗️ Closed issue [#58](https://github.com/yusdacra/nix-cargo-integration/issues/58) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#114](https://github.com/nix-community/dream2nix/issues/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 💪 Opened PR [#114](https://github.com/nix-community/dream2nix/pull/114) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

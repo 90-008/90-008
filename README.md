@@ -1,4 +1,4 @@
-### Hello, I'm yusdacra
+### Hello, I'm dusk
 
 I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 

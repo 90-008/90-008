@@ -2,9 +2,13 @@
 
 I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 
-Check out [Harmony](https://harmonyapp.io)!
+#### Projects I'm focusing on
 
-Contacts:
+- [Harmony](https://harmonyapp.io)
+- [dream2nix](https://github.com/nix-community/dream2nix)
+
+#### Contacts
+
 - Matrix: [@yusdacra:nixos.dev](https://matrix.to/#/@yusdacra:nixos.dev)
 - E-mail: y.bera003.06@pm.me
 - LinkedIn: https://www.linkedin.com/in/yusuf-bera-ertan-8468b7192

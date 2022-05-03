@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-2. ❗️ Closed issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-3. ❗️ Opened issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-4. ❗️ Closed issue [#1](https://github.com/yusdacra/dream2nix-crates-io/issues/1) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-5. 🗣 Commented on [#1](https://github.com/yusdacra/dream2nix-crates-io/issues/1) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
+1. 💪 Opened PR [#136](https://github.com/nix-community/dream2nix/pull/136) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🗣 Commented on [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
+3. ❗️ Closed issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
+4. ❗️ Opened issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
+5. ❗️ Closed issue [#1](https://github.com/yusdacra/dream2nix-crates-io/issues/1) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
 <!--END_SECTION:activity-->

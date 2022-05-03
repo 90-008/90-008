@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 💪 Opened PR [#136](https://github.com/nix-community/dream2nix/pull/136) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-4. ❗️ Closed issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-5. ❗️ Opened issue [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
+1. 🗣 Commented on [#98](https://github.com/nix-community/dream2nix/issues/98) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 💪 Opened PR [#137](https://github.com/nix-community/dream2nix/pull/137) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 💪 Opened PR [#136](https://github.com/nix-community/dream2nix/pull/136) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#2](https://github.com/yusdacra/dream2nix-crates-io/issues/2) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
 <!--END_SECTION:activity-->

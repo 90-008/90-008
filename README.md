@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#3](https://github.com/yusdacra/dream2nix-index-lib/issues/3) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
-2. ❗️ Opened issue [#2](https://github.com/yusdacra/dream2nix-index-lib/issues/2) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
-3. ❗️ Closed issue [#1](https://github.com/yusdacra/dream2nix-index-lib/issues/1) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
-4. 🗣 Commented on [#1](https://github.com/yusdacra/dream2nix-index-lib/issues/1) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
-5. 🗣 Commented on [#145](https://github.com/nix-community/dream2nix/issues/145) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#145](https://github.com/nix-community/dream2nix/issues/145) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. ❗️ Opened issue [#3](https://github.com/yusdacra/dream2nix-index-lib/issues/3) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
+3. ❗️ Opened issue [#2](https://github.com/yusdacra/dream2nix-index-lib/issues/2) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
+4. ❗️ Closed issue [#1](https://github.com/yusdacra/dream2nix-index-lib/issues/1) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
+5. 🗣 Commented on [#1](https://github.com/yusdacra/dream2nix-index-lib/issues/1) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
 <!--END_SECTION:activity-->

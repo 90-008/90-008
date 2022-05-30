@@ -18,7 +18,7 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#161](https://github.com/nix-community/dream2nix/issues/161) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 2. 🗣 Commented on [#161](https://github.com/nix-community/dream2nix/issues/161) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#156](https://github.com/nix-community/dream2nix/issues/156) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#161](https://github.com/nix-community/dream2nix/issues/161) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 🗣 Commented on [#161](https://github.com/nix-community/dream2nix/issues/161) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 🗣 Commented on [#156](https://github.com/nix-community/dream2nix/issues/156) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 5. 🗣 Commented on [#161](https://github.com/nix-community/dream2nix/issues/161) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

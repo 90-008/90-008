@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#18](https://github.com/ipetkov/crane/issues/18) in [ipetkov/crane](https://github.com/ipetkov/crane)
+1. 🗣 Commented on [#101](https://github.com/nix-community/dream2nix/issues/101) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 2. 🗣 Commented on [#18](https://github.com/ipetkov/crane/issues/18) in [ipetkov/crane](https://github.com/ipetkov/crane)
-3. 💪 Opened PR [#166](https://github.com/nix-community/dream2nix/pull/166) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🎉 Merged PR [#163](https://github.com/nix-community/dream2nix/pull/163) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 💪 Opened PR [#163](https://github.com/nix-community/dream2nix/pull/163) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 🗣 Commented on [#18](https://github.com/ipetkov/crane/issues/18) in [ipetkov/crane](https://github.com/ipetkov/crane)
+4. 💪 Opened PR [#166](https://github.com/nix-community/dream2nix/pull/166) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🎉 Merged PR [#163](https://github.com/nix-community/dream2nix/pull/163) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

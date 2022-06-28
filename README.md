@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#2906](https://github.com/helix-editor/helix/issues/2906) in [helix-editor/helix](https://github.com/helix-editor/helix)
 2. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#82](https://github.com/yusdacra/nix-cargo-integration/issues/82) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🎉 Merged PR [#83](https://github.com/yusdacra/nix-cargo-integration/pull/83) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#82](https://github.com/yusdacra/nix-cargo-integration/issues/82) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

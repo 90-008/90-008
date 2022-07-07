@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#173](https://github.com/numtide/treefmt/issues/173) in [numtide/treefmt](https://github.com/numtide/treefmt)
-2. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 💪 Opened PR [#189](https://github.com/nix-community/dream2nix/pull/189) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. ❗️ Opened issue [#173](https://github.com/numtide/treefmt/issues/173) in [numtide/treefmt](https://github.com/numtide/treefmt)
 3. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 💪 Opened PR [#4](https://github.com/yusdacra/dream2nix-index-lib/pull/4) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
-5. 💪 Opened PR [#3](https://github.com/yusdacra/dream2nix-npm/pull/3) in [yusdacra/dream2nix-npm](https://github.com/yusdacra/dream2nix-npm)
+4. 🗣 Commented on [#184](https://github.com/nix-community/dream2nix/issues/184) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 💪 Opened PR [#4](https://github.com/yusdacra/dream2nix-index-lib/pull/4) in [yusdacra/dream2nix-index-lib](https://github.com/yusdacra/dream2nix-index-lib)
 <!--END_SECTION:activity-->

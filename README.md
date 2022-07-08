@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#190](https://github.com/nix-community/dream2nix/issues/190) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 🗣 Commented on [#3003](https://github.com/helix-editor/helix/issues/3003) in [helix-editor/helix](https://github.com/helix-editor/helix)
+1. ❗️ Opened issue [#706](https://github.com/Plutonomicon/cardano-transaction-lib/issues/706) in [Plutonomicon/cardano-transaction-lib](https://github.com/Plutonomicon/cardano-transaction-lib)
+2. ❗️ Opened issue [#190](https://github.com/nix-community/dream2nix/issues/190) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 3. 🗣 Commented on [#3003](https://github.com/helix-editor/helix/issues/3003) in [helix-editor/helix](https://github.com/helix-editor/helix)
-4. 💪 Opened PR [#189](https://github.com/nix-community/dream2nix/pull/189) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. ❗️ Opened issue [#173](https://github.com/numtide/treefmt/issues/173) in [numtide/treefmt](https://github.com/numtide/treefmt)
+4. 🗣 Commented on [#3003](https://github.com/helix-editor/helix/issues/3003) in [helix-editor/helix](https://github.com/helix-editor/helix)
+5. 💪 Opened PR [#189](https://github.com/nix-community/dream2nix/pull/189) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

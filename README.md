@@ -4,8 +4,8 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 
 #### Projects I'm focusing on
 
-- [Harmony](https://harmonyapp.io)
 - [dream2nix](https://github.com/nix-community/dream2nix)
+- work stuff!
 
 #### Contacts
 

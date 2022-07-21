@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#200](https://github.com/nix-community/dream2nix/pull/200) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 💪 Opened PR [#13](https://github.com/nix-community/dreampkgs/pull/13) in [nix-community/dreampkgs](https://github.com/nix-community/dreampkgs)
-3. 💪 Opened PR [#200](https://github.com/nix-community/dream2nix/pull/200) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🎉 Merged PR [#3](https://github.com/yusdacra/dream2nix-crates-io/pull/3) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
-5. 🗣 Commented on [#712](https://github.com/Plutonomicon/cardano-transaction-lib/issues/712) in [Plutonomicon/cardano-transaction-lib](https://github.com/Plutonomicon/cardano-transaction-lib)
+1. 🗣 Commented on [#502](https://github.com/NixOS/nixos-search/issues/502) in [NixOS/nixos-search](https://github.com/NixOS/nixos-search)
+2. 🎉 Merged PR [#200](https://github.com/nix-community/dream2nix/pull/200) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 💪 Opened PR [#13](https://github.com/nix-community/dreampkgs/pull/13) in [nix-community/dreampkgs](https://github.com/nix-community/dreampkgs)
+4. 💪 Opened PR [#200](https://github.com/nix-community/dream2nix/pull/200) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🎉 Merged PR [#3](https://github.com/yusdacra/dream2nix-crates-io/pull/3) in [yusdacra/dream2nix-crates-io](https://github.com/yusdacra/dream2nix-crates-io)
 <!--END_SECTION:activity-->

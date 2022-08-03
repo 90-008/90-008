@@ -1,6 +1,6 @@
 ### Hello, I'm yusdacra
 
-I do Rust, Nix / NixOS and [other stuff](https://yusdacra.gitlab.io/about).
+I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 #### Projects I'm focusing on
 

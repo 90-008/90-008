@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#189327](https://github.com/NixOS/nixpkgs/issues/189327) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#189149](https://github.com/NixOS/nixpkgs/issues/189149) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-3. 🗣 Commented on [#265](https://github.com/nix-community/dream2nix/issues/265) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#273](https://github.com/nix-community/dream2nix/issues/273) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 🗣 Commented on [#265](https://github.com/nix-community/dream2nix/issues/265) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 💪 Opened PR [#284](https://github.com/nix-community/dream2nix/pull/284) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🗣 Commented on [#189327](https://github.com/NixOS/nixpkgs/issues/189327) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#189149](https://github.com/NixOS/nixpkgs/issues/189149) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+4. 🗣 Commented on [#265](https://github.com/nix-community/dream2nix/issues/265) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#273](https://github.com/nix-community/dream2nix/issues/273) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

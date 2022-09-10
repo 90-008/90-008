@@ -16,9 +16,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#290](https://github.com/nix-community/dream2nix/pull/290) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 💪 Opened PR [#290](https://github.com/nix-community/dream2nix/pull/290) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#289](https://github.com/nix-community/dream2nix/issues/289) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#189834](https://github.com/NixOS/nixpkgs/issues/189834) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-5. 🗣 Commented on [#289](https://github.com/nix-community/dream2nix/issues/289) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#292](https://github.com/nix-community/dream2nix/issues/292) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🎉 Merged PR [#290](https://github.com/nix-community/dream2nix/pull/290) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 💪 Opened PR [#290](https://github.com/nix-community/dream2nix/pull/290) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 🗣 Commented on [#289](https://github.com/nix-community/dream2nix/issues/289) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#189834](https://github.com/NixOS/nixpkgs/issues/189834) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 <!--END_SECTION:activity-->

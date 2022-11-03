@@ -5,6 +5,7 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Projects I'm focusing on
 
 - [dream2nix](https://github.com/nix-community/dream2nix)
+- [nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 - work stuff!
 
 #### Contacts

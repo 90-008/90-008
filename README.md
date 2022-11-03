@@ -10,7 +10,7 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 #### Contacts
 
-- Matrix: [@yusdacra:nixos.dev](https://matrix.to/#/@yusdacra:nixos.dev)
+- Matrix: [`@dusk:gaze.systems`](https://matrix.to/#/@dusk:gaze.systems) (formerly `@yusdacra:nixos.dev`)
 - E-mail: y.bera003.06@pm.me
 - LinkedIn: https://www.linkedin.com/in/yusuf-bera-ertan
 

@@ -17,9 +17,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#352](https://github.com/nix-community/dream2nix/issues/352) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🗣 Commented on [#204931](https://github.com/NixOS/nixpkgs/issues/204931) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
 2. 🗣 Commented on [#352](https://github.com/nix-community/dream2nix/issues/352) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 🗣 Commented on [#407](https://github.com/nix-community/dream2nix/issues/407) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🗣 Commented on [#408](https://github.com/nix-community/dream2nix/issues/408) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. ❗️ Closed issue [#367](https://github.com/nix-community/dream2nix/issues/367) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 🗣 Commented on [#352](https://github.com/nix-community/dream2nix/issues/352) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 🗣 Commented on [#407](https://github.com/nix-community/dream2nix/issues/407) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🗣 Commented on [#408](https://github.com/nix-community/dream2nix/issues/408) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->

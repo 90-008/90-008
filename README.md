@@ -17,9 +17,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#432](https://github.com/nix-community/dream2nix/pull/432) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 💪 Opened PR [#5219](https://github.com/helix-editor/helix/pull/5219) in [helix-editor/helix](https://github.com/helix-editor/helix)
-3. 🗣 Commented on [#204725](https://github.com/NixOS/nixpkgs/issues/204725) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-4. 🗣 Commented on [#106](https://github.com/yusdacra/nix-cargo-integration/issues/106) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#285](https://github.com/nix-community/dream2nix/issues/285) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🎉 Merged PR [#432](https://github.com/nix-community/dream2nix/pull/432) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 💪 Opened PR [#432](https://github.com/nix-community/dream2nix/pull/432) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 💪 Opened PR [#5219](https://github.com/helix-editor/helix/pull/5219) in [helix-editor/helix](https://github.com/helix-editor/helix)
+4. 🗣 Commented on [#204725](https://github.com/NixOS/nixpkgs/issues/204725) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+5. 🗣 Commented on [#106](https://github.com/yusdacra/nix-cargo-integration/issues/106) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

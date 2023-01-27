@@ -18,9 +18,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#457](https://github.com/nix-community/dream2nix/pull/457) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-2. 💪 Opened PR [#191](https://github.com/michal-z/zig-gamedev/pull/191) in [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
-3. 🎉 Merged PR [#453](https://github.com/nix-community/dream2nix/pull/453) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 💪 Opened PR [#185](https://github.com/michal-z/zig-gamedev/pull/185) in [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
-5. 💪 Opened PR [#184](https://github.com/michal-z/zig-gamedev/pull/184) in [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
+1. 💪 Opened PR [#463](https://github.com/nix-community/dream2nix/pull/463) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🎉 Merged PR [#457](https://github.com/nix-community/dream2nix/pull/457) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+3. 💪 Opened PR [#191](https://github.com/michal-z/zig-gamedev/pull/191) in [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
+4. 🎉 Merged PR [#453](https://github.com/nix-community/dream2nix/pull/453) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 💪 Opened PR [#185](https://github.com/michal-z/zig-gamedev/pull/185) in [michal-z/zig-gamedev](https://github.com/michal-z/zig-gamedev)
 <!--END_SECTION:activity-->

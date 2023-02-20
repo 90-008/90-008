@@ -22,5 +22,5 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 2. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 3. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 4. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 💪 Opened PR [#110](https://github.com/yusdacra/nix-cargo-integration/pull/110) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

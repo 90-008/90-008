@@ -18,9 +18,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#111](https://github.com/yusdacra/nix-cargo-integration/issues/111) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 💪 Opened PR [#157](https://github.com/hercules-ci/flake.parts-website/pull/157) in [hercules-ci/flake.parts-website](https://github.com/hercules-ci/flake.parts-website)
+2. ❗️ Closed issue [#99](https://github.com/yusdacra/nix-cargo-integration/issues/99) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. ❗️ Closed issue [#89](https://github.com/yusdacra/nix-cargo-integration/issues/89) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. ❗️ Closed issue [#45](https://github.com/yusdacra/nix-cargo-integration/issues/45) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗️ Closed issue [#23](https://github.com/yusdacra/nix-cargo-integration/issues/23) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

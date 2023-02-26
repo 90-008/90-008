@@ -18,9 +18,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6098](https://github.com/helix-editor/helix/pull/6098) in [helix-editor/helix](https://github.com/helix-editor/helix)
-2. 🗣 Commented on [#113](https://github.com/yusdacra/nix-cargo-integration/issues/113) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#114](https://github.com/yusdacra/nix-cargo-integration/issues/114) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🗣 Commented on [#113](https://github.com/yusdacra/nix-cargo-integration/issues/113) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 💪 Opened PR [#157](https://github.com/hercules-ci/flake.parts-website/pull/157) in [hercules-ci/flake.parts-website](https://github.com/hercules-ci/flake.parts-website)
+1. 🗣 Commented on [#113](https://github.com/yusdacra/nix-cargo-integration/issues/113) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#6098](https://github.com/helix-editor/helix/pull/6098) in [helix-editor/helix](https://github.com/helix-editor/helix)
+3. 🗣 Commented on [#113](https://github.com/yusdacra/nix-cargo-integration/issues/113) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#114](https://github.com/yusdacra/nix-cargo-integration/issues/114) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#113](https://github.com/yusdacra/nix-cargo-integration/issues/113) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

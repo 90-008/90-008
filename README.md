@@ -17,9 +17,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#233106](https://github.com/NixOS/nixpkgs/issues/233106) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
-2. 🗣 Commented on [#123](https://github.com/yusdacra/nix-cargo-integration/issues/123) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. ❗️ Opened issue [#3](https://github.com/yusdacra/musikquadrupled/issues/3) in [yusdacra/musikquadrupled](https://github.com/yusdacra/musikquadrupled)
-5. ❗️ Opened issue [#2](https://github.com/yusdacra/musikquadrupled/issues/2) in [yusdacra/musikquadrupled](https://github.com/yusdacra/musikquadrupled)
+1. 🗣 Commented on [#125](https://github.com/yusdacra/nix-cargo-integration/issues/125) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#233106](https://github.com/NixOS/nixpkgs/issues/233106) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+3. 🗣 Commented on [#123](https://github.com/yusdacra/nix-cargo-integration/issues/123) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🗣 Commented on [#5](https://github.com/yusdacra/nix-cargo-integration/issues/5) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗️ Opened issue [#3](https://github.com/yusdacra/musikquadrupled/issues/3) in [yusdacra/musikquadrupled](https://github.com/yusdacra/musikquadrupled)
 <!--END_SECTION:activity-->

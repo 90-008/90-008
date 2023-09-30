@@ -4,9 +4,7 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 #### Projects I'm focusing on
 
-- [musikquadrupled](https://github.com/yusdacra/musikquadrupled)
-- [musikspider](https://github.com/yusdacra/musikspider)
-- work stuff!
+- [purpur](https://github.com/harmony-development/purpur)
 
 #### Contacts
 

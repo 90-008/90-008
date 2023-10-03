@@ -15,9 +15,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/harmony-development/purpur/pull/2) in [harmony-development/purpur](https://github.com/harmony-development/purpur)
-2. 💪 Opened PR [#2](https://github.com/harmony-development/purpur/pull/2) in [harmony-development/purpur](https://github.com/harmony-development/purpur)
-3. 🎉 Merged PR [#135](https://github.com/yusdacra/nix-cargo-integration/pull/135) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 💪 Opened PR [#135](https://github.com/yusdacra/nix-cargo-integration/pull/135) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🎉 Merged PR [#134](https://github.com/yusdacra/nix-cargo-integration/pull/134) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 💪 Opened PR [#715](https://github.com/nix-community/dream2nix/pull/715) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+2. 🎉 Merged PR [#2](https://github.com/harmony-development/purpur/pull/2) in [harmony-development/purpur](https://github.com/harmony-development/purpur)
+3. 💪 Opened PR [#2](https://github.com/harmony-development/purpur/pull/2) in [harmony-development/purpur](https://github.com/harmony-development/purpur)
+4. 🎉 Merged PR [#135](https://github.com/yusdacra/nix-cargo-integration/pull/135) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 💪 Opened PR [#135](https://github.com/yusdacra/nix-cargo-integration/pull/135) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

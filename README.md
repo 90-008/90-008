@@ -15,9 +15,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#138](https://github.com/yusdacra/nix-cargo-integration/issues/138#issuecomment-1761502213) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🗣 Commented on [#138](https://github.com/yusdacra/nix-cargo-integration/issues/138#issuecomment-1759803140) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🔒 Closed issue [#136](https://github.com/yusdacra/nix-cargo-integration/issues/136) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🔒 Closed issue [#137](https://github.com/yusdacra/nix-cargo-integration/issues/137) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#137](https://github.com/yusdacra/nix-cargo-integration/issues/137#issuecomment-1744752329) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🗣 Commented on [#6](https://github.com/yusdacra/FlutterEnhancements/pull/6#issuecomment-1785548478) in [yusdacra/FlutterEnhancements](https://github.com/yusdacra/FlutterEnhancements)
+2. 💪 Opened PR [#8842](https://github.com/wbond/package_control_channel/pull/8842) in [wbond/package_control_channel](https://github.com/wbond/package_control_channel)
+3. 🔒 Closed issue [#5](https://github.com/yusdacra/FlutterEnhancements/issues/5) in [yusdacra/FlutterEnhancements](https://github.com/yusdacra/FlutterEnhancements)
+4. 🎉 Merged PR [#6](https://github.com/yusdacra/FlutterEnhancements/pull/6) in [yusdacra/FlutterEnhancements](https://github.com/yusdacra/FlutterEnhancements)
+5. 🗣 Commented on [#138](https://github.com/yusdacra/nix-cargo-integration/issues/138#issuecomment-1761502213) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

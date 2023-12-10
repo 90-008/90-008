@@ -15,9 +15,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#142](https://github.com/yusdacra/nix-cargo-integration/issues/142#issuecomment-1845925260) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🔒 Closed issue [#142](https://github.com/yusdacra/nix-cargo-integration/issues/142) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#42](https://github.com/vaporvee/discord-sdk-godot/issues/42#issuecomment-1838206462) in [vaporvee/discord-sdk-godot](https://github.com/vaporvee/discord-sdk-godot)
-4. 🗣 Commented on [#42](https://github.com/vaporvee/discord-sdk-godot/issues/42#issuecomment-1835643262) in [vaporvee/discord-sdk-godot](https://github.com/vaporvee/discord-sdk-godot)
-5. 🗣 Commented on [#42](https://github.com/vaporvee/discord-sdk-godot/issues/42#issuecomment-1834746632) in [vaporvee/discord-sdk-godot](https://github.com/vaporvee/discord-sdk-godot)
+1. ❌ Closed PR [#144](https://github.com/yusdacra/nix-cargo-integration/pull/144) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 🗣 Commented on [#144](https://github.com/yusdacra/nix-cargo-integration/pull/144#issuecomment-1848931000) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🗣 Commented on [#143](https://github.com/yusdacra/nix-cargo-integration/issues/143#issuecomment-1848930799) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 🔒 Closed issue [#143](https://github.com/yusdacra/nix-cargo-integration/issues/143) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. 🗣 Commented on [#142](https://github.com/yusdacra/nix-cargo-integration/issues/142#issuecomment-1845925260) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->

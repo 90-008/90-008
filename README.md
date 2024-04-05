@@ -15,9 +15,9 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#153](https://github.com/yusdacra/nix-cargo-integration/issues/153#issuecomment-2016626238) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🔒 Closed issue [#153](https://github.com/yusdacra/nix-cargo-integration/issues/153) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 🗣 Commented on [#149](https://github.com/yusdacra/nix-cargo-integration/issues/149#issuecomment-2001592517) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. 🗣 Commented on [#153](https://github.com/yusdacra/nix-cargo-integration/issues/153#issuecomment-2001587890) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🗣 Commented on [#289464](https://github.com/NixOS/nixpkgs/pull/289464#issuecomment-1949888452) in [NixOS/nixpkgs](https://github.com/NixOS/nixpkgs)
+1. ❗ Opened issue [#5](https://github.com/bluskript/nix-inspect/issues/5) in [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
+2. ❗ Opened issue [#4](https://github.com/bluskript/nix-inspect/issues/4) in [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
+3. ❗ Opened issue [#3](https://github.com/bluskript/nix-inspect/issues/3) in [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
+4. ❗ Opened issue [#2](https://github.com/bluskript/nix-inspect/issues/2) in [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
+5. ❗ Opened issue [#1](https://github.com/bluskript/nix-inspect/issues/1) in [bluskript/nix-inspect](https://github.com/bluskript/nix-inspect)
 <!--END_SECTION:activity-->

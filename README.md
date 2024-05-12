@@ -4,7 +4,7 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 #### Projects I'm focusing on
 
-- [purpur](https://github.com/harmony-development/purpur)
+- nothing, right now
 
 #### Contacts
 

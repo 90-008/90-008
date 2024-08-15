@@ -8,7 +8,7 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 #### Contacts
 
-- Matrix: [`@dusk:gaze.systems`](https://matrix.to/#/@dusk:gaze.systems) (formerly `@yusdacra:nixos.dev`)
+- Discord: yusdacra
 - E-mail: y.bera003.06@pm.me
 - LinkedIn: https://www.linkedin.com/in/yusuf-bera-ertan
 

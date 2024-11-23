@@ -24,4 +24,4 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 
 
 
-![visits](https://count.getloli.com/@yusdacragithub?name=yusdacragithub&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=auto)
+![visits](https://count.getloli.com/@yusdacragithub?name=yusdacragithub&theme=booru-lewd&padding=5&offset=0&align=center&scale=1&pixelated=1&darkmode=0)

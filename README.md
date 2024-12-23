@@ -15,11 +15,11 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#184](https://github.com/yusdacra/nix-cargo-integration/pull/184) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-2. 🎉 Merged PR [#1082](https://github.com/nix-community/dream2nix/pull/1082) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-3. 💪 Opened PR [#1082](https://github.com/nix-community/dream2nix/pull/1082) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-4. 🎉 Merged PR [#1081](https://github.com/nix-community/dream2nix/pull/1081) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
-5. 💪 Opened PR [#1081](https://github.com/nix-community/dream2nix/pull/1081) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+1. 🎉 Merged PR [#184](https://github.com/yusdacra/nix-cargo-integration/pull/184) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#184](https://github.com/yusdacra/nix-cargo-integration/pull/184) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+3. 🎉 Merged PR [#1082](https://github.com/nix-community/dream2nix/pull/1082) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+4. 💪 Opened PR [#1082](https://github.com/nix-community/dream2nix/pull/1082) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
+5. 🎉 Merged PR [#1081](https://github.com/nix-community/dream2nix/pull/1081) in [nix-community/dream2nix](https://github.com/nix-community/dream2nix)
 <!--END_SECTION:activity-->
 
 

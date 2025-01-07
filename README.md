@@ -15,11 +15,11 @@ I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
 #### Recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#719](https://github.com/PluralKit/PluralKit/pull/719) in [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit)
-2. 🎉 Merged PR [#189](https://github.com/yusdacra/nix-cargo-integration/pull/189) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-3. 💪 Opened PR [#189](https://github.com/yusdacra/nix-cargo-integration/pull/189) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-4. ❗ Opened issue [#185](https://github.com/yusdacra/nix-cargo-integration/issues/185) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
-5. 🎉 Merged PR [#184](https://github.com/yusdacra/nix-cargo-integration/pull/184) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. 🎉 Merged PR [#190](https://github.com/yusdacra/nix-cargo-integration/pull/190) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+2. 💪 Opened PR [#719](https://github.com/PluralKit/PluralKit/pull/719) in [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit)
+3. 🎉 Merged PR [#189](https://github.com/yusdacra/nix-cargo-integration/pull/189) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+4. 💪 Opened PR [#189](https://github.com/yusdacra/nix-cargo-integration/pull/189) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+5. ❗ Opened issue [#185](https://github.com/yusdacra/nix-cargo-integration/issues/185) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 <!--END_SECTION:activity-->
 
 

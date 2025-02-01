@@ -1,18 +1,18 @@
-### Hello, I'm dusk
+### hello, i'm dusk
 
-I do Rust, Nix / NixOS and [other stuff](https://gaze.systems/).
+i do Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 
-#### Projects I'm focusing on
+#### projects i'm focusing on
 
 - nothing, right now
 
-#### Contacts
+#### contacts
 
-- Discord: yusdacra
-- E-mail: y.bera003.06@pm.me
-- LinkedIn: https://www.linkedin.com/in/yusuf-bera-ertan
+- discord: yusdacra
+- e-mail: y.bera003.06@pm.me
+- linkedin: https://www.linkedin.com/in/yusuf-bera-ertan
 
-#### Recent activity
+#### recent activity
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#191](https://github.com/yusdacra/nix-cargo-integration/issues/191#issuecomment-2576776761) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)

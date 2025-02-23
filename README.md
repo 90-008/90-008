@@ -15,7 +15,7 @@ i do Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#191](https://github.com/yusdacra/nix-cargo-integration/issues/191#issuecomment-2576776761) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
+1. ❗ Opened issue [#494](https://github.com/nkoehring/250kb-club/issues/494) in [nkoehring/250kb-club](https://github.com/nkoehring/250kb-club)
 2. 🔒 Closed issue [#191](https://github.com/yusdacra/nix-cargo-integration/issues/191) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 3. 🎉 Merged PR [#190](https://github.com/yusdacra/nix-cargo-integration/pull/190) in [yusdacra/nix-cargo-integration](https://github.com/yusdacra/nix-cargo-integration)
 4. 💪 Opened PR [#719](https://github.com/PluralKit/PluralKit/pull/719) in [PluralKit/PluralKit](https://github.com/PluralKit/PluralKit)

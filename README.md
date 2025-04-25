@@ -1,15 +1,15 @@
-### hello, i'm dusk
+### hello, this is dusk
 
-i do Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
+it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 
-#### projects i'm focusing on
+#### projects it's focusing on
 
 - nothing, right now
 
 #### contacts
 
 - discord: yusdacra
-- e-mail: y.bera003.06@pm.me
+- e-mail: 90008@gaze.systems
 - linkedin: https://www.linkedin.com/in/yusuf-bera-ertan
 
 #### recent activity

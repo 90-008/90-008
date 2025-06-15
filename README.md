@@ -8,7 +8,7 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 
 #### contacts
 
-- discord: yusdacra
+- discord: 90.008
 - e-mail: 90008@gaze.systems
 - linkedin: https://www.linkedin.com/in/yusuf-bera-ertan
 

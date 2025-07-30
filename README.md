@@ -15,10 +15,10 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#317](https://github.com/moonlight-mod/extensions/pull/317) in [moonlight-mod/extensions](https://github.com/moonlight-mod/extensions)
-2. 🗣 Commented on [#1](https://github.com/90-008/moonlight-exts/pull/1#issuecomment-3103802480) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
-3. 🎉 Merged PR [#1](https://github.com/90-008/moonlight-exts/pull/1) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
-4. 🗣 Commented on [#1](https://github.com/yusdacra/godot_boids/issues/1#issuecomment-2908347022) in [yusdacra/godot_boids](https://github.com/yusdacra/godot_boids)
+1. ❗ Opened issue [#34](https://github.com/skyware-js/bot/issues/34) in [skyware-js/bot](https://github.com/skyware-js/bot)
+2. 💪 Opened PR [#317](https://github.com/moonlight-mod/extensions/pull/317) in [moonlight-mod/extensions](https://github.com/moonlight-mod/extensions)
+3. 🗣 Commented on [#1](https://github.com/90-008/moonlight-exts/pull/1#issuecomment-3103802480) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
+4. 🎉 Merged PR [#1](https://github.com/90-008/moonlight-exts/pull/1) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
 5. 💪 Opened PR [#272](https://github.com/moonlight-mod/extensions/pull/272) in [moonlight-mod/extensions](https://github.com/moonlight-mod/extensions)
 <!--END_SECTION:activity-->
 

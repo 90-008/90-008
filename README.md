@@ -15,9 +15,9 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#34](https://github.com/skyware-js/bot/issues/34#issuecomment-3135392424) in [skyware-js/bot](https://github.com/skyware-js/bot)
-2. ❗ Opened issue [#34](https://github.com/skyware-js/bot/issues/34) in [skyware-js/bot](https://github.com/skyware-js/bot)
-3. 💪 Opened PR [#317](https://github.com/moonlight-mod/extensions/pull/317) in [moonlight-mod/extensions](https://github.com/moonlight-mod/extensions)
+1. 💪 Opened PR [#1](https://github.com/lare354/moonlight-plugins/pull/1) in [lare354/moonlight-plugins](https://github.com/lare354/moonlight-plugins)
+2. 🗣 Commented on [#34](https://github.com/skyware-js/bot/issues/34#issuecomment-3135392424) in [skyware-js/bot](https://github.com/skyware-js/bot)
+3. ❗ Opened issue [#34](https://github.com/skyware-js/bot/issues/34) in [skyware-js/bot](https://github.com/skyware-js/bot)
 4. 🗣 Commented on [#1](https://github.com/90-008/moonlight-exts/pull/1#issuecomment-3103802480) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
 5. 🎉 Merged PR [#1](https://github.com/90-008/moonlight-exts/pull/1) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
 <!--END_SECTION:activity-->

@@ -15,10 +15,10 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
-2. 🗣 Commented on [#2055](https://github.com/snarfed/bridgy-fed/issues/2055#issuecomment-3217550695) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
-3. ❗ Opened issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
-4. 💪 Opened PR [#1](https://github.com/lare354/moonlight-plugins/pull/1) in [lare354/moonlight-plugins](https://github.com/lare354/moonlight-plugins)
+1. 💪 Opened PR [#1](https://github.com/ellitedev/webclick/pull/1) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
+2. 🔒 Closed issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
+3. 🗣 Commented on [#2055](https://github.com/snarfed/bridgy-fed/issues/2055#issuecomment-3217550695) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
+4. ❗ Opened issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 5. 🎉 Merged PR [#1](https://github.com/90-008/moonlight-exts/pull/1) in [90-008/moonlight-exts](https://github.com/90-008/moonlight-exts)
 <!--END_SECTION:activity-->
 

@@ -15,7 +15,7 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#1](https://github.com/ellitedev/webclick/pull/1) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
+1. 💪 Opened PR [#1](undefined) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
 2. 🔒 Closed issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 3. 🗣 Commented on [#2055](https://github.com/snarfed/bridgy-fed/issues/2055#issuecomment-3217550695) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 4. ❗ Opened issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)

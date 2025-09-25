@@ -16,8 +16,8 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#155](https://github.com/spuithori/tokimekibluesky/pull/155#issuecomment-3330349501) in [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
-2. 💪 Opened PR [#155](undefined) in [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
-3. 💪 Opened PR [#1](undefined) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
+2. 💪 Opened PR [#155](https://github.com/spuithori/tokimekibluesky/pull/155) in [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
+3. 💪 Opened PR [#1](https://github.com/ellitedev/webclick/pull/1) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
 4. 🗣 Commented on [#2055](https://github.com/snarfed/bridgy-fed/issues/2055#issuecomment-3217550695) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 5. ❗ Opened issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 <!--END_SECTION:activity-->

@@ -15,9 +15,9 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#155](https://github.com/spuithori/tokimekibluesky/pull/155#issuecomment-3330349501) in [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
-2. 💪 Opened PR [#155](https://github.com/spuithori/tokimekibluesky/pull/155) in [spuithori/tokimekibluesky](https://github.com/spuithori/tokimekibluesky)
-3. 💪 Opened PR [#1](https://github.com/ellitedev/webclick/pull/1) in [ellitedev/webclick](https://github.com/ellitedev/webclick)
+1.  Labeled issue [#198](https://github.com/90-008/nix-cargo-integration/issues/198) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
+2. ❗ Opened issue [#198](https://github.com/90-008/nix-cargo-integration/issues/198) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
+3. 🗣 Commented on [#1682](https://github.com/DeterminateSystems/nix-installer/issues/1682#issuecomment-3374359338) in [DeterminateSystems/nix-installer](https://github.com/DeterminateSystems/nix-installer)
 4. 🗣 Commented on [#2055](https://github.com/snarfed/bridgy-fed/issues/2055#issuecomment-3217550695) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 5. ❗ Opened issue [#2055](https://github.com/snarfed/bridgy-fed/issues/2055) in [snarfed/bridgy-fed](https://github.com/snarfed/bridgy-fed)
 <!--END_SECTION:activity-->

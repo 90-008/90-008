@@ -15,11 +15,11 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. 🚀 Published release [0.1.2](https://github.com/90-008/godot_boids/releases/tag/v0.1.2) in [90-008/godot_boids](https://github.com/90-008/godot_boids)
-2.  Labeled issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
+1. 💪 Opened PR [#376](undefined) in [moonlight-mod/extensions](https://github.com/moonlight-mod/extensions)
+2. 🚀 Published release [0.1.2](https://github.com/90-008/godot_boids/releases/tag/v0.1.2) in [90-008/godot_boids](https://github.com/90-008/godot_boids)
 3.  Labeled issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
-4. ❗ Opened issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
-5.  Labeled issue [#198](https://github.com/90-008/nix-cargo-integration/issues/198) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
+4.  Labeled issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
+5. ❗ Opened issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
 <!--END_SECTION:activity-->
 
 

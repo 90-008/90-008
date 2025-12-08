@@ -1,4 +1,4 @@
-### hello, this is dusk
+### hello, this is dawn
 
 it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 

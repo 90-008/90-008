@@ -15,9 +15,9 @@ it does Rust, Nix / NixOS and [other stuff](https://gaze.systems/about/).
 #### recent activity
 
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/tintinweb/pi-gitnexus/issues/2) in [tintinweb/pi-gitnexus](https://github.com/tintinweb/pi-gitnexus)
-2. ❗ Opened issue [#1](https://github.com/tintinweb/pi-gitnexus/issues/1) in [tintinweb/pi-gitnexus](https://github.com/tintinweb/pi-gitnexus)
-3. 🚀 Published release [0.1.2](https://github.com/90-008/godot_boids/releases/tag/v0.1.2) in [90-008/godot_boids](https://github.com/90-008/godot_boids)
+1. ❗ Opened issue [#1357](https://github.com/bluesky-social/indigo/issues/1357) in [bluesky-social/indigo](https://github.com/bluesky-social/indigo)
+2. ❗ Opened issue [#2](https://github.com/tintinweb/pi-gitnexus/issues/2) in [tintinweb/pi-gitnexus](https://github.com/tintinweb/pi-gitnexus)
+3. ❗ Opened issue [#1](https://github.com/tintinweb/pi-gitnexus/issues/1) in [tintinweb/pi-gitnexus](https://github.com/tintinweb/pi-gitnexus)
 4.  Labeled issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
 5. ❗ Opened issue [#199](https://github.com/90-008/nix-cargo-integration/issues/199) in [90-008/nix-cargo-integration](https://github.com/90-008/nix-cargo-integration)
 <!--END_SECTION:activity-->
